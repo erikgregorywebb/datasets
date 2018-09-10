@@ -1,0 +1,220 @@
+name,album,artist,type,release_date,year,minutes,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,feature
+0 To 100 / The Catch Up,0 To 100 / The Catch Up,Drake,Single,7/14/13,2013,4.59,45,0.559,0.737,0.559,0.716,0,0.252,-3.964,0.39,176.618,4,FALSE
+I Do It,B.O.A.T.S. II #METIME (Deluxe),2 Chainz,Feature,1/1/13,2013,6.23,24,0.587,0.186,0.587,0.708,0,0.193,-4.492,0.19,145.103,4,TRUE
+Back To Back,Back To Back,Drake,Single,7/31/15,2015,2.84,41,0.893,0.00854,0.893,0.48,0,0.116,-3.728,0.356,86.976,4,FALSE
+Right Here,Believe,Justin Bieber,Feature,1/1/12,2012,3.4,41,0.639,0.0233,0.639,0.57,0,0.329,-4.966,0.042,92.073,4,TRUE
+Believe Me,Believe Me,Lil Wayne,Feature,5/28/14,2014,5.63,30,0.842,0.281,0.842,0.482,0,0.111,-8.846,0.181,92.023,4,TRUE
+Fall For Your Type,Best Night Of My Life,Jamie Foxx,Feature,12/17/10,2010,4.49,53,0.593,0.394,0.593,0.393,3.24E-06,0.11,-11.736,0.0827,136.866,4,TRUE
+Charged Up,Charged Up,Drake,Single,7/31/15,2015,3.16,19,0.457,0.91,0.457,0.694,0,0.121,-7.018,0.608,177.777,4,FALSE
+In the Morning,Cole World: The Sideline Story,J. Cole,Feature,9/23/11,2011,3.91,62,0.44,0.764,0.44,0.671,0,0.212,-10.598,0.477,83.078,4,TRUE
+Blessings,Dark Sky Paradise (Deluxe),Big Sean,Feature,2/23/15,2015,4.2,36,0.775,0.332,0.775,0.621,0,0.122,-7.634,0.295,118.843,4,TRUE
+DnF,DnF,Preme,Feature,8/25/14,2014,3.44,43,0.721,0.0958,0.721,0.607,0,0.29,-7.078,0.277,76.987,4,TRUE
+Back On Road,Everybody Looking,Gucci Mane,Feature,7/22/16,2016,2.48,57,0.833,0.329,0.833,0.673,0,0.136,-6.981,0.315,148.019,4,TRUE
+Drama (feat. Drake),Exis,Roy Woods,Feature,7/31/15,2015,4.2,71,0.709,0.157,0.709,0.362,0,0.109,-9.814,0.055,122.043,4,TRUE
+Fake Love,Fake Love,Drake,Single,10/24/16,2016,3.46,4,0.923,0.161,0.923,0.535,0,0.103,-7.353,0.301,133.942,4,FALSE
+For Free,For Free,DJ Khaled,Feature,6/3/16,2016,3.06,39,0.916,0.0173,0.916,0.571,1.11E-06,0.153,-8.241,0.2,103.521,4,TRUE
+Diced Pineapples,"God Forgives, I Don't (Deluxe Edition)",Rick Ross,Feature,1/1/12,2012,4.6,33,0.511,0.352,0.511,0.734,0,0.196,-6.025,0.239,110.771,5,TRUE
+Poetic Justice,"good kid, m.A.A.d city (Deluxe)",Kendrick Lamar,Feature,10/23/12,2012,5,0,0.777,0.184,0.777,0.55,0,0.241,-10.092,0.403,135.96,4,TRUE
+Grindin',Grindin',Lil Wayne,Feature,1/1/14,2014,5.1,14,0.797,0.0118,0.797,0.521,0,0.564,-8.21,0.204,103.985,4,TRUE
+Yes Indeed,Harder Than Ever,Lil Baby,Feature,5/18/18,2018,2.37,89,0.964,0.035,0.964,0.346,0,0.108,-9.309,0.53,119.958,4,TRUE
+Headlines,Headlines,Drake,Single,1/1/11,2011,3.95,22,0.65,0.357,0.65,0.583,0.000316,0.0909,-7.39,0.0948,152.087,4,FALSE
+Right Above It,I Am Not A Human Being,Lil Wayne,Feature,1/1/10,2010,4.53,52,0.376,0.0435,0.376,0.841,0,0.578,-4.348,0.356,76.052,4,TRUE
+I'm Single,I Am Not A Human Being,Lil Wayne,Feature,1/1/10,2010,5.55,30,0.567,0.044,0.567,0.381,0,0.107,-5.238,0.507,85.537,5,TRUE
+Gonorrhea,I Am Not A Human Being,Lil Wayne,Feature,1/1/10,2010,4.37,24,0.715,0.0311,0.715,0.745,0,0.0823,-5.71,0.25,148.042,4,TRUE
+With You,I Am Not A Human Being (Explicit Version),Lil Wayne,Feature,1/1/10,2010,3.82,0,0.391,0.762,0.391,0.467,0,0.242,-7.451,0.0622,150.783,4,TRUE
+I'm On One,I'm On One,DJ Khaled,Feature,1/1/11,2011,4.98,18,0.492,0.0548,0.492,0.817,0,0.17,-3.416,0.304,150.186,4,TRUE
+I'm Upset,I'm Upset,Drake,Single,5/26/18,2018,3.57,77,0.899,0.263,0.899,0.592,0,0.0831,-7.901,0.333,149.953,4,FALSE
+You & The 6,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,4.42,28,0.574,0.166,0.574,0.476,0,0.129,-7.444,0.282,154.531,4,FALSE
+Wednesday Night Interlude,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,3.54,29,0.321,0.729,0.321,0.466,7.63E-06,0.215,-8.163,0.0512,135.089,4,FALSE
+Used To,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,4.47,30,0.926,0.0703,0.926,0.427,0.00033,0.0818,-7.584,0.107,96.023,4,FALSE
+Star67,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,4.92,31,0.521,0.747,0.521,0.392,8.81E-06,0.198,-7.88,0.17,91.938,4,FALSE
+Preach,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,3.95,33,0.605,0.165,0.605,0.511,8.95E-05,0.104,-8.094,0.475,65.256,4,FALSE
+Now & Forever,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,4.69,30,0.555,0.124,0.555,0.481,0,0.101,-7.419,0.0322,107.806,4,FALSE
+No Tellin',If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,5.18,33,0.823,0.543,0.823,0.467,0,0.135,-10.394,0.301,95.024,4,FALSE
+Madonna,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,2.96,29,0.905,0.0149,0.905,0.506,3.56E-05,0.371,-8.598,0.0588,110.017,4,FALSE
+Legend,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,4.03,44,0.712,0.0269,0.712,0.563,0,0.0776,-7.573,0.071,100.093,4,FALSE
+Know Yourself,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,4.6,41,0.733,0.196,0.733,0.412,0,0.342,-8.687,0.225,114.413,4,FALSE
+Jungle,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,5.34,39,0.69,0.618,0.69,0.235,0.000144,0.107,-8.651,0.0541,99.906,4,FALSE
+Energy,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,3.03,43,0.748,0.38,0.748,0.571,0,0.534,-7.916,0.478,172.105,4,FALSE
+Company,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,4.21,31,0.651,0.0403,0.651,0.55,0,0.165,-8.216,0.0496,107.571,4,FALSE
+6PM In New York,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,4.72,26,0.554,0.107,0.554,0.849,0,0.155,-4.154,0.25,128.428,3,FALSE
+6 Man,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,2.79,30,0.812,0.217,0.812,0.535,0,0.114,-9.306,0.449,78.974,4,FALSE
+6 God,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,3.01,34,0.859,0.0248,0.859,0.623,0,0.125,-8.596,0.106,105.45,4,FALSE
+10 Bands,If You're Reading This It's Too Late,Drake,Mixtape,2/12/15,2015,2.96,39,0.825,0.262,0.825,0.757,1.72E-06,0.0762,-3.687,0.384,172.938,4,FALSE
+Live For,Kiss Land,The Weeknd,Feature,9/10/13,2013,3.71,29,0.559,0.531,0.559,0.674,0,0.114,-7.591,0.225,151.923,4,TRUE
+Loving You No More,Last Train To Paris [Deluxe (Explicit Version)],Diddy - Dirty Money,Feature,1/1/10,2010,4.08,19,0.427,0.0288,0.427,0.682,0,0.175,-2.268,0.037,189.948,4,TRUE
+Look Alive (feat. Drake),Look Alive (feat. Drake),BlocBoy JB,Feature,2/9/18,2018,3.02,88,0.922,0.00104,0.922,0.581,5.86E-05,0.105,-7.495,0.27,140.022,4,TRUE
+What's My Name?,Loud,Rihanna,Feature,11/16/10,2010,4.39,67,0.703,0.232,0.703,0.784,0,0.1,-2.942,0.0779,100.027,4,TRUE
+Love Me - Album Version (Edited),Love Me,Lil Wayne,Feature,1/1/13,2013,4.26,3,0.673,0.00687,0.673,0.63,0,0.0835,-6.596,0.0345,124.951,4,TRUE
+My Love (feat. Drake),Majid Jordan,Majid Jordan,Feature,2/5/16,2016,4.14,56,0.624,0.109,0.624,0.536,0.000428,0.102,-9.575,0.0799,119.088,4,TRUE
+Make Me Proud,Make Me Proud,Drake,Single,1/1/11,2011,3.67,15,0.69,0.00251,0.69,0.498,0.000185,0.157,-10.108,0.157,131.917,4,FALSE
+Marvins Room,Marvins Room,Drake,Single,1/1/11,2011,5.79,19,0.396,0.638,0.396,0.241,0.0044,0.0826,-18.387,0.118,79.606,4,FALSE
+Teenage Fever,More Life,Drake,Mixtape,3/18/17,2017,3.66,46,0.766,0.111,0.766,0.283,0.0172,0.115,-10.33,0.0846,97.04,4,FALSE
+Skepta Interlude,More Life,Drake,Mixtape,3/18/17,2017,2.39,37,0.745,0.0103,0.745,0.822,4.20E-06,0.155,-6.354,0.252,86.733,5,FALSE
+Since Way Back,More Life,Drake,Mixtape,3/18/17,2017,6.13,34,0.468,0.348,0.468,0.266,9.55E-06,0.209,-11.121,0.13,153.292,4,FALSE
+Sacrifices,More Life,Drake,Mixtape,3/18/17,2017,5.13,39,0.903,0.0407,0.903,0.439,0,0.138,-11.813,0.397,139.112,4,FALSE
+Portland,More Life,Drake,Mixtape,3/18/17,2017,3.94,49,0.925,0.0172,0.925,0.443,0,0.276,-8.216,0.264,136.078,4,FALSE
+Passionfruit,More Life,Drake,Mixtape,3/18/17,2017,4.98,56,0.809,0.256,0.809,0.463,0.085,0.109,-11.377,0.0396,111.98,4,FALSE
+Nothings Into Somethings,More Life,Drake,Mixtape,3/18/17,2017,2.56,34,0.766,0.332,0.766,0.234,0.00156,0.358,-7.544,0.159,96.882,4,FALSE
+No Long Talk,More Life,Drake,Mixtape,3/18/17,2017,2.49,39,0.913,0.0671,0.913,0.608,0,0.533,-6.839,0.234,97.063,4,FALSE
+Madiba Riddim,More Life,Drake,Mixtape,3/18/17,2017,3.42,41,0.839,0.245,0.839,0.521,0.00545,0.607,-10.45,0.166,105.992,4,FALSE
+Lose You,More Life,Drake,Mixtape,3/18/17,2017,5.09,34,0.526,0.699,0.526,0.583,0,0.372,-9.172,0.376,89.835,4,FALSE
+KMT,More Life,Drake,Mixtape,3/18/17,2017,2.71,44,0.875,0.0189,0.875,0.6,0.0143,0.132,-6.818,0.0435,119.987,4,FALSE
+Jorja Interlude,More Life,Drake,Mixtape,3/18/17,2017,1.79,38,0.735,0.762,0.735,0.373,0.00202,0.288,-10.478,0.104,123.081,4,FALSE
+Ice Melts,More Life,Drake,Mixtape,3/18/17,2017,4.18,36,0.813,0.08,0.813,0.551,0,0.386,-7.605,0.353,124.957,4,FALSE
+Gyalchester,More Life,Drake,Mixtape,3/18/17,2017,3.15,45,0.877,0.0317,0.877,0.391,0.000502,0.0945,-8.196,0.063,131.018,4,FALSE
+Glow,More Life,Drake,Mixtape,3/18/17,2017,3.44,34,0.688,0.2,0.688,0.384,0,0.708,-8.824,0.375,162.097,4,FALSE
+Get It Together,More Life,Drake,Mixtape,3/18/17,2017,4.17,43,0.781,0.0945,0.781,0.721,0.391,0.104,-9.133,0.0514,123.011,4,FALSE
+Free Smoke,More Life,Drake,Mixtape,3/18/17,2017,3.64,41,0.736,0.0681,0.736,0.491,0,0.571,-6.892,0.439,141.979,4,FALSE
+Do Not Disturb,More Life,Drake,Mixtape,3/18/17,2017,4.73,45,0.618,0.246,0.618,0.693,0,0.112,-5.943,0.45,170.982,4,FALSE
+Can't Have Everything,More Life,Drake,Mixtape,3/18/17,2017,3.81,35,0.856,0.0136,0.856,0.572,1.55E-06,0.121,-8.429,0.373,82.445,4,FALSE
+Blem,More Life,Drake,Mixtape,3/18/17,2017,3.61,45,0.726,0.0533,0.726,0.535,1.38E-05,0.0984,-7.804,0.0476,98.067,4,FALSE
+4422,More Life,Drake,Mixtape,3/18/17,2017,3.1,38,0.61,0.558,0.61,0.229,0.0413,0.113,-12.36,0.0333,111.887,4,FALSE
+Mr. Wrong,My Life II...The Journey Continues (Act 1),Mary J. Blige,Feature,1/1/11,2011,4.03,31,0.694,0.202,0.694,0.674,1.22E-05,0.138,-4.991,0.164,143.067,4,TRUE
+No Complaints,No Complaints,Metro Boomin,Feature,6/23/17,2017,4.36,40,0.911,0.0836,0.911,0.51,0.0658,0.0797,-10.786,0.185,123.961,4,TRUE
+No Frauds,No Frauds,Nicki Minaj,Feature,3/10/17,2017,4.54,40,0.865,0.0788,0.865,0.553,3.17E-06,0.514,-7.012,0.276,139.023,4,TRUE
+No Lie,No Lie (Explicit Version),2 Chainz,Feature,1/1/12,2012,3.99,0,0.467,0.0176,0.467,0.674,0,0.415,-5.919,0.225,130.585,4,TRUE
+No New Friends - SFTB Remix (Edited Version),No New Friends (SFTB Remix),DJ Khaled,Feature,1/1/13,2013,5.13,4,0.699,0.00403,0.699,0.646,0,0.614,-6.434,0.0999,125.012,4,TRUE
+No Shopping,No Shopping,French Montana,Feature,7/16/16,2016,3.8,10,0.896,0.0136,0.896,0.491,0.00191,0.142,-10.335,0.271,83.505,4,TRUE
+Wu-Tang Forever,Nothing Was The Same,Drake,Studio,1/1/13,2013,3.63,51,0.844,0.0503,0.844,0.43,0,0.0998,-8.44,0.188,99.915,4,FALSE
+Worst Behavior,Nothing Was The Same,Drake,Studio,1/1/13,2013,4.5,54,0.771,0.158,0.771,0.781,0,0.185,-6.361,0.147,109.945,4,FALSE
+Tuscan Leather,Nothing Was The Same,Drake,Studio,1/1/13,2013,6.11,49,0.542,0.107,0.542,0.672,0,0.262,-5.436,0.39,79.638,4,FALSE
+Too Much,Nothing Was The Same,Drake,Studio,1/1/13,2013,4.36,55,0.632,0.157,0.632,0.559,0,0.121,-5.891,0.52,140.201,4,FALSE
+The Motion,Nothing Was The Same,Drake,Studio,1/1/13,2013,4.02,51,0.669,0.281,0.669,0.725,0.000387,0.0961,-8.307,0.0915,157.652,4,FALSE
+The Language,Nothing Was The Same,Drake,Studio,1/1/13,2013,3.73,51,0.819,0.0101,0.819,0.658,0,0.0816,-8.417,0.319,120.108,4,FALSE
+Pound Cake / Paris Morton Music 2,Nothing Was The Same,Drake,Studio,1/1/13,2013,7.23,58,0.538,0.139,0.538,0.755,1.37E-05,0.114,-6.766,0.5,93.685,4,FALSE
+Own It,Nothing Was The Same,Drake,Studio,1/1/13,2013,4.2,51,0.653,0.0496,0.653,0.343,4.13E-05,0.304,-11.327,0.115,103.029,4,FALSE
+"Hold On, We're Going Home",Nothing Was The Same,Drake,Studio,1/1/13,2013,3.8,69,0.773,0.00357,0.773,0.404,2.17E-05,0.0718,-7.438,0.0949,99.999,4,FALSE
+Furthest Thing,Nothing Was The Same,Drake,Studio,1/1/13,2013,4.46,52,0.549,0.148,0.549,0.772,0,0.0574,-5.292,0.148,137.083,4,FALSE
+From Time,Nothing Was The Same,Drake,Studio,1/1/13,2013,5.37,61,0.564,0.633,0.564,0.509,0,0.127,-9.727,0.475,91.632,4,FALSE
+Connect,Nothing Was The Same,Drake,Studio,1/1/13,2013,4.94,49,0.675,0.414,0.675,0.492,0,0.145,-9.516,0.157,75.067,4,FALSE
+Come Thru,Nothing Was The Same,Drake,Studio,1/1/13,2013,3.94,53,0.632,0.168,0.632,0.477,0,0.58,-5.802,0.183,82.046,4,FALSE
+All Me,Nothing Was The Same,Drake,Studio,1/1/13,2013,4.53,62,0.669,0.0689,0.669,0.511,0,0.181,-6.943,0.395,122.029,4,FALSE
+305 To My City,Nothing Was The Same,Drake,Studio,1/1/13,2013,4.26,46,0.488,0.0572,0.488,0.487,0,0.204,-8.831,0.281,99.438,4,FALSE
+Only,Only,Nicki Minaj,Feature,10/28/14,2014,5.2,0,0.866,0.359,0.866,0.506,0,0.0922,-6.913,0.469,119.954,4,TRUE
+Over Here - feat. Drake,PARTYNEXTDOOR,PARTYNEXTDOOR,Feature,7/1/13,2013,2.96,52,0.794,0.0384,0.794,0.592,1.86E-05,0.111,-6.973,0.129,97.201,4,TRUE
+Come and See Me (feat. Drake),PARTYNEXTDOOR 3 (P3),PARTYNEXTDOOR,Feature,8/12/16,2016,3.92,73,0.717,0.0511,0.717,0.347,2.43E-06,0.087,-10.265,0.0636,84.987,4,TRUE
+Recognize (feat. Drake),PARTYNEXTDOOR TWO,PARTYNEXTDOOR,Feature,7/29/14,2014,5.19,66,0.643,0.0102,0.643,0.541,0,0.102,-5.801,0.0426,119.501,4,TRUE
+Champion,Pink Friday ... Roman Reloaded,Nicki Minaj,Feature,1/1/11,2011,4.93,0,0.453,0.00653,0.453,0.697,0,0.469,-4.759,0.039,164.126,4,TRUE
+Moment 4 Life,Pink Friday (Deluxe Edition),Nicki Minaj,Feature,2010,1905,4.66,49,0.681,0.406,0.681,0.881,0,0.242,-3.883,0.237,97.94,4,TRUE
+Pop Style,Pop Style,Drake,Single,4/4/16,2016,3.49,29,0.791,0.187,0.791,0.49,1.95E-06,0.104,-9.05,0.242,133.085,4,FALSE
+Pop That,Pop That,French Montana,Feature,1/1/12,2012,5.08,7,0.739,0.0596,0.739,0.912,0,0.65,-1.253,0.113,137.998,4,TRUE
+Money To Blow - Street Version,Pricele$$ (UK Deluxe Edition Explicit),Birdman,Feature,1/1/09,2009,4.31,33,0.708,0.0095,0.708,0.578,0,0.353,-8.686,0.0631,133.03,4,TRUE
+Mo Milly,Pricele$$ (UK Deluxe Edition Explicit),Birdman,Feature,1/1/09,2009,4.2,14,0.677,0.0114,0.677,0.95,0,0.163,-3.807,0.213,151.955,4,TRUE
+4 My Town (Play Ball),Pricele$$ (UK Deluxe Edition Explicit),Birdman,Feature,1/1/09,2009,4.35,26,0.615,0.0546,0.615,0.619,0,0.31,-6.567,0.231,152.105,4,TRUE
+Forever,Relapse: Refill,Eminem,Feature,5/15/09,2009,5.96,42,0.457,0.249,0.457,0.906,0,0.182,-2.278,0.342,104.02,5,TRUE
+Right Hand,Right Hand,Drake,Single,7/31/15,2015,3.18,35,0.915,0.117,0.915,0.301,0,0.089,-7.657,0.237,100.519,4,FALSE
+Trophies,Rise Of An Empire (Deluxe Edition),Young Money,Single,1/1/14,2014,3.14,44,0.74,0.153,0.74,0.694,0,0.137,-7.488,0.505,143.894,4,TRUE
+God's Plan,Scary Hours,Drake,EP,1/20/18,2018,3.32,69,0.755,0.0283,0.755,0.448,3.28E-05,0.514,-9.587,0.107,77.179,4,FALSE
+Diplomatic Immunity,Scary Hours,Drake,EP,1/20/18,2018,4.26,41,0.663,0.00472,0.663,0.846,0,0.292,-5.226,0.453,75.137,4,FALSE
+Schemin Up (feat. Drake and P. Reign),Schemin Up (feat. Drake and P. Reign),OB OBrien,Feature,12/15/14,2014,5.51,54,0.752,0.338,0.752,0.766,0,0.0861,-5.11,0.251,141.82,4,TRUE
+That's How You Feel,Scorpion,Drake,Studio,6/29/18,2018,2.63,69,0.81,0.152,0.81,0.451,0.0537,0.108,-6.348,0.249,85.417,4,FALSE
+Talk Up,Scorpion,Drake,Studio,6/29/18,2018,3.26,71,0.759,0.0039,0.759,0.479,5.30E-06,0.302,-10.65,0.186,140.089,4,FALSE
+Survival,Scorpion,Drake,Studio,6/29/18,2018,2.27,72,0.685,0.134,0.685,0.593,0,0.123,-9.083,0.284,84.763,4,FALSE
+Summer Games,Scorpion,Drake,Studio,6/29/18,2018,4.13,70,0.776,0.481,0.776,0.482,0.0457,0.11,-11.268,0.0356,136.015,4,FALSE
+Sandra's Rose,Scorpion,Drake,Studio,6/29/18,2018,3.61,70,0.487,0.047,0.487,0.85,0,0.142,-5.427,0.25,152.102,4,FALSE
+Ratchet Happy Birthday,Scorpion,Drake,Studio,6/29/18,2018,3.46,68,0.648,0.458,0.648,0.535,0.00246,0.106,-13.295,0.1,168.03,4,FALSE
+Peak,Scorpion,Drake,Studio,6/29/18,2018,3.43,69,0.689,0.847,0.689,0.217,0.000123,0.106,-13.539,0.0387,92.007,4,FALSE
+Nonstop,Scorpion,Drake,Studio,6/29/18,2018,3.98,80,0.909,0.0306,0.909,0.405,0.00698,0.105,-8.133,0.14,154.984,4,FALSE
+Nice For What,Scorpion,Drake,Studio,6/29/18,2018,3.51,72,0.7,0.0884,0.7,0.909,0.000114,0.0778,-6.461,0.0628,93.469,4,FALSE
+Mob Ties,Scorpion,Drake,Studio,6/29/18,2018,3.42,75,0.755,0.0443,0.755,0.575,0.00127,0.276,-8.392,0.0673,85.994,4,FALSE
+Jaded,Scorpion,Drake,Studio,6/29/18,2018,4.37,69,0.766,0.0366,0.766,0.272,0,0.175,-5.696,0.041,116.036,4,FALSE
+Is There More,Scorpion,Drake,Studio,6/29/18,2018,3.78,68,0.636,0.738,0.636,0.538,0,0.149,-7.725,0.312,83.508,4,FALSE
+In My Feelings,Scorpion,Drake,Studio,6/29/18,2018,3.63,84,0.735,0.00623,0.735,0.482,0.0144,0.448,-9.445,0.139,181.995,4,FALSE
+I'm Upset,Scorpion,Drake,Studio,6/29/18,2018,3.57,73,0.899,0.279,0.899,0.587,0,0.0835,-7.866,0.338,149.993,4,FALSE
+God's Plan,Scorpion,Drake,Studio,6/29/18,2018,3.32,75,0.754,0.0329,0.754,0.449,7.84E-05,0.55,-9.212,0.108,77.167,4,FALSE
+Finesse,Scorpion,Drake,Studio,6/29/18,2018,3.03,69,0.807,0.132,0.807,0.321,0.000289,0.1,-8.147,0.0571,94.994,4,FALSE
+Final Fantasy,Scorpion,Drake,Studio,6/29/18,2018,3.67,67,0.461,0.428,0.461,0.449,8.29E-06,0.115,-10.998,0.442,86.505,4,FALSE
+Emotionless,Scorpion,Drake,Studio,6/29/18,2018,5.04,74,0.413,0.0239,0.413,0.676,0,0.0811,-5.124,0.213,173.478,4,FALSE
+Elevate,Scorpion,Drake,Studio,6/29/18,2018,3.08,73,0.755,0.0153,0.755,0.47,0,0.118,-8.72,0.139,76.056,4,FALSE
+Don't Matter to Me,Scorpion,Drake,Studio,6/29/18,2018,4.1,81,0.825,0.497,0.825,0.317,0.0128,0.11,-12.39,0.0583,103.001,4,FALSE
+Cant' Take a Joke,Scorpion,Drake,Studio,6/29/18,2018,2.73,72,0.878,0.041,0.878,0.432,0,0.0571,-9.852,0.143,86.956,4,FALSE
+Blue Tint,Scorpion,Drake,Studio,6/29/18,2018,2.71,70,0.888,0.0126,0.888,0.377,0,0.19,-10.142,0.339,133.996,4,FALSE
+After Dark,Scorpion,Drake,Studio,6/29/18,2018,4.83,70,0.65,0.0386,0.65,0.429,0,0.139,-13.071,0.192,141.855,4,FALSE
+8 Out Of 10,Scorpion,Drake,Studio,6/29/18,2018,3.26,72,0.534,0.164,0.534,0.684,0,0.499,-7.874,0.717,170.416,4,FALSE
+March 14,Scorpion,Drake,Studio,6/29/18,2018,5.16,67,0.5,0.4,0.5,0.419,0,0.36,-7.349,0.39,91.963,4,FALSE
+Say Something (Featuring Drake),Shock Value II (International Deluxe version),Timbaland,Feature,1/1/09,2009,4.02,21,0.555,0.0845,0.555,0.713,0,0.712,-4.549,0.0911,79.934,4,TRUE
+Signs,Signs,Drake,Single,6/23/17,2017,3.91,49,0.801,0.0864,0.801,0.727,0.00406,0.112,-4.687,0.0606,107.371,4,FALSE
+Uptown,So Far Gone,Drake,EP,9/15/08,2008,6.35,20,0.761,0.00356,0.761,0.754,0,0.212,-4.674,0.269,128.012,4,FALSE
+The Calm,So Far Gone,Drake,EP,9/15/08,2008,4.1,15,0.479,0.828,0.479,0.638,0.000201,0.11,-12.112,0.896,160.158,4,FALSE
+Successful,So Far Gone,Drake,EP,9/15/08,2008,5.86,22,0.735,0.464,0.735,0.416,0,0.114,-7.939,0.387,159.109,4,FALSE
+I'm Goin In,So Far Gone,Drake,EP,9/15/08,2008,3.75,23,0.662,0.0389,0.662,0.763,0,0.103,-8.455,0.377,170.031,4,FALSE
+Houstatlantavegas,So Far Gone,Drake,EP,9/15/08,2008,4.84,19,0.699,0.319,0.699,0.576,0.00509,0.205,-9.304,0.0519,135.312,4,FALSE
+Fear,So Far Gone,Drake,EP,9/15/08,2008,4.68,19,0.334,0.0615,0.334,0.783,0,0.11,-6.144,0.181,83.944,4,FALSE
+Best I Ever Had,So Far Gone,Drake,EP,9/15/08,2008,4.3,44,0.457,0.204,0.457,0.855,0,0.28,-4.877,0.382,162.164,4,FALSE
+So Good,So Good,Shanell,Feature,1/1/11,2011,4.29,2,0.574,0.000744,0.574,0.797,0,0.331,-8.617,0.0677,157.954,4,TRUE
+Started From the Bottom,Started From the Bottom (Explicit Version),Drake,Single,1/1/13,2013,2.89,26,0.79,0.0391,0.79,0.54,0,0.266,-6.959,0.183,86.308,4,FALSE
+Stay Schemin,Stay Schemin,Rick Ross,Feature,1/1/12,2012,4.46,30,0.448,0.0833,0.448,0.719,0,0.162,-4.179,0.291,162.09,4,TRUE
+Why You Always Hatin?,Still Brazy (Deluxe),YG,Feature,6/17/16,2016,3.28,37,0.927,0.0442,0.927,0.362,0,0.139,-9.329,0.591,93.008,4,TRUE
+Still Got It,Still Got It,Tyga,Feature,1/1/11,2011,3.72,7,0.51,0.375,0.51,0.864,1.15E-06,0.434,-4.795,0.372,119.198,5,TRUE
+The One,Stronger withEach Tear (International Version),Mary J. Blige,Feature,1/1/10,2010,3.23,16,0.854,0.183,0.854,0.679,0,0.246,-6.328,0.251,104.052,4,TRUE
+Summer Sixteen,Summer Sixteen,Drake,Single,1/31/16,2016,3.37,54,0.594,0.00354,0.594,0.46,2.71E-05,0.147,-7.607,0.382,146.274,4,FALSE
+We'll Be Fine,Take Care,Drake,Studio,1/1/11,2011,4.13,6,0.386,0.00171,0.386,0.488,0,0.64,-7.303,0.422,193.178,4,FALSE
+Under Ground Kings,Take Care,Drake,Studio,1/1/11,2011,3.54,7,0.487,5.20E-05,0.487,0.712,0,0.198,-7.323,0.27,156.209,4,FALSE
+The Ride,Take Care,Drake,Studio,1/1/11,2011,5.85,4,0.556,0.517,0.556,0.702,0,0.342,-10.079,0.205,155.948,4,FALSE
+The Real Her,Take Care,Drake,Studio,1/1/11,2011,5.35,3,0.567,0.166,0.567,0.309,0,0.12,-14.254,0.385,65.041,4,FALSE
+The Motto,Take Care,Drake,Studio,2011,1905,3.03,73,0.766,0.000107,0.766,0.442,6.12E-05,0.111,-8.558,0.356,201.8,4,FALSE
+Take Care,Take Care,Drake,Studio,1/1/11,2011,4.62,8,0.629,0.0267,0.629,0.515,1.22E-05,0.0888,-10.358,0.265,121.845,4,FALSE
+Shot For Me,Take Care,Drake,Studio,1/1/11,2011,3.75,8,0.566,0.0555,0.566,0.465,0,0.567,-11.714,0.235,143.015,4,FALSE
+Practice,Take Care,Drake,Studio,1/1/11,2011,3.96,6,0.446,0.574,0.446,0.239,7.76E-05,0.12,-15.327,0.0876,104.675,4,FALSE
+Over My Dead Body,Take Care,Drake,Studio,1/1/11,2011,4.54,6,0.489,0.759,0.489,0.57,2.10E-06,0.179,-10.291,0.306,185.516,4,FALSE
+Lord Knows,Take Care,Drake,Studio,1/1/11,2011,5.13,4,0.417,0.0786,0.417,0.887,0,0.834,-5.551,0.367,167.579,4,FALSE
+Look What You've Done,Take Care,Drake,Studio,1/1/11,2011,5.03,5,0.495,0.485,0.495,0.351,0,0.0967,-14.669,0.34,134.369,4,FALSE
+HYFR (Hell Ya Fucking Right),Take Care,Drake,Studio,1/1/11,2011,3.44,9,0.444,0.123,0.444,0.627,0,0.0795,-8.744,0.252,98.21,3,FALSE
+Doing It Wrong,Take Care,Drake,Studio,1/1/11,2011,4.42,6,0.398,0.857,0.398,0.162,0.000103,0.102,-15.699,0.0441,69.608,3,FALSE
+Crew Love,Take Care,Drake,Studio,1/1/11,2011,3.48,8,0.418,0.227,0.418,0.546,0,0.229,-9.057,0.238,160.152,4,FALSE
+Cameras / Good Ones Go Interlude - Medley,Take Care,Drake,Studio,1/1/11,2011,7.25,7,0.441,0.255,0.441,0.403,1.27E-05,0.13,-11.18,0.147,139.92,4,FALSE
+Buried Alive Interlude,Take Care,Drake,Studio,1/1/11,2011,2.52,3,0.711,0.412,0.711,0.543,0,0.505,-12.692,0.112,102.01,4,FALSE
+Aston Martin Music,Teflon Don,Rick Ross,Feature,1/1/10,2010,4.51,34,0.57,0.0125,0.57,0.58,0,0.0497,-5.547,0.209,171.917,4,TRUE
+She Will,Tha Carter IV (Deluxe),Lil Wayne,Feature,1/1/11,2011,5.1,55,0.364,0.000402,0.364,0.841,0,0.242,-4.831,0.119,100.14,5,TRUE
+It's Good,Tha Carter IV (Deluxe),Lil Wayne,Feature,1/1/11,2011,4.02,41,0.666,0.0244,0.666,0.715,0,0.119,-7.292,0.156,85.356,5,TRUE
+Up All Night,Thank Me Later,Drake,Studio,1/1/10,2010,3.91,59,0.592,0.00778,0.592,0.809,1.62E-05,0.336,-4.667,0.282,156.344,4,FALSE
+Unforgettable,Thank Me Later,Drake,Studio,1/1/10,2010,3.56,42,0.562,0.0951,0.562,0.872,0,0.107,-5.108,0.119,156.109,4,FALSE
+The Resistance,Thank Me Later,Drake,Studio,1/1/10,2010,3.76,41,0.439,0.83,0.439,0.737,0,0.116,-8.123,0.188,81.475,4,FALSE
+Thank Me Now,Thank Me Later,Drake,Studio,1/1/10,2010,5.48,41,0.499,0.279,0.499,0.771,0,0.119,-4.851,0.42,76.222,4,FALSE
+Shut It Down,Thank Me Later,Drake,Studio,1/1/10,2010,6.99,43,0.541,0.412,0.541,0.435,0,0.0978,-9.302,0.0844,119.819,4,FALSE
+Show Me A Good Time,Thank Me Later,Drake,Studio,1/1/10,2010,3.51,43,0.665,0.0385,0.665,0.734,0,0.116,-6.066,0.117,128.31,4,FALSE
+Over,Thank Me Later,Drake,Studio,1/1/10,2010,3.89,54,0.39,0.0107,0.39,0.847,0,0.124,-5.611,0.202,99.768,5,FALSE
+Miss Me,Thank Me Later,Drake,Studio,1/1/10,2010,5.09,45,0.429,0.081,0.429,0.864,0,0.331,-5.975,0.603,100.814,5,FALSE
+Light Up,Thank Me Later,Drake,Studio,1/1/10,2010,4.57,41,0.484,0.0946,0.484,0.907,0,0.151,-5.996,0.415,86.152,4,FALSE
+Karaoke,Thank Me Later,Drake,Studio,1/1/10,2010,3.8,41,0.756,0.00901,0.756,0.658,0.0189,0.0805,-7.124,0.11,151.026,4,FALSE
+Fireworks,Thank Me Later,Drake,Studio,1/1/10,2010,5.22,45,0.52,0.434,0.52,0.756,0,0.162,-6.472,0.356,89.453,4,FALSE
+Find Your Love,Thank Me Later,Drake,Studio,1/1/10,2010,3.48,53,0.625,0.0209,0.625,0.613,0,0.0286,-6.005,0.173,96.034,4,FALSE
+Fancy,Thank Me Later,Drake,Studio,1/1/10,2010,5.32,45,0.517,0.331,0.517,0.884,2.00E-06,0.356,-5.581,0.458,87.275,4,FALSE
+Cece's Interlude,Thank Me Later,Drake,Studio,1/1/10,2010,2.57,36,0.436,0.0538,0.436,0.603,5.83E-06,0.115,-6.882,0.0331,94.992,4,FALSE
+100 (feat. Drake),The Documentary 2 + 2.5 (Collector's Edition),The Game,Feature,1/22/16,2016,5.57,1,0.801,0.0136,0.801,0.521,0,0.179,-9.871,0.28,108.025,4,TRUE
+Good Girls Go Bad,The R.E.D. Album,The Game,Feature,1/1/11,2011,4.63,16,0.38,0.0291,0.38,0.84,0,0.87,-4.528,0.311,159.939,4,TRUE
+The Zone,Trilogy,The Weeknd,Feature,1/1/12,2012,6.98,31,0.616,0.305,0.616,0.523,0.000411,0.1,-8.105,0.0839,139.951,4,TRUE
+Truffle Butter,Truffle Butter,Nicki Minaj,Feature,1/23/15,2015,3.65,33,0.896,0.0644,0.896,0.674,1.83E-05,0.12,-6.89,0.0499,105.096,4,TRUE
+"Two Birds, One Stone","Two Birds, One Stone",Drake,Single,10/28/16,2016,3.98,24,0.529,0.337,0.529,0.838,0,0.127,-2.619,0.212,88.052,4,FALSE
+With You,Views,Drake,Studio,5/6/16,2016,3.25,37,0.872,0.152,0.872,0.407,0.000188,0.112,-10.036,0.256,127.97,4,FALSE
+Weston Road Flows,Views,Drake,Studio,5/6/16,2016,4.23,32,0.62,0.0733,0.62,0.722,0,0.273,-7.022,0.322,82.918,4,FALSE
+Views,Views,Drake,Studio,5/6/16,2016,5.2,32,0.446,0.07,0.446,0.871,0,0.243,-5.837,0.367,78.119,4,FALSE
+U With Me?,Views,Drake,Studio,5/6/16,2016,4.96,34,0.442,0.376,0.442,0.421,7.23E-06,0.139,-11.455,0.137,87.694,4,FALSE
+Too Good,Views,Drake,Studio,5/6/16,2016,4.39,51,0.804,0.0573,0.804,0.648,3.49E-05,0.102,-7.805,0.117,117.983,4,FALSE
+Summers Over Interlude,Views,Drake,Studio,5/6/16,2016,1.77,30,0.687,0.372,0.687,0.267,0.00411,0.0992,-8.818,0.0297,131.962,3,FALSE
+Still Here,Views,Drake,Studio,5/6/16,2016,3.16,41,0.834,0.0212,0.834,0.438,0,0.649,-9.577,0.152,133.958,3,FALSE
+Redemption,Views,Drake,Studio,5/6/16,2016,5.57,36,0.66,0.625,0.66,0.311,1.29E-06,0.116,-8.681,0.113,119.237,4,FALSE
+One Dance,Views,Drake,Studio,5/6/16,2016,2.9,60,0.791,0.00784,0.791,0.619,0.00423,0.351,-5.886,0.0532,103.989,4,FALSE
+Keep The Family Close,Views,Drake,Studio,5/6/16,2016,5.48,32,0.373,0.132,0.373,0.56,0,0.381,-7.615,0.0448,98.858,3,FALSE
+Hype,Views,Drake,Studio,5/6/16,2016,3.49,35,0.785,0.0259,0.785,0.633,0,0.368,-8.223,0.169,129.97,4,FALSE
+Hotline Bling,Views,Drake,Studio,5/6/16,2016,4.45,52,0.903,0.00347,0.903,0.62,0.000119,0.0504,-8.094,0.0587,134.96,4,FALSE
+Grammys,Views,Drake,Studio,5/6/16,2016,3.67,37,0.711,0.00175,0.711,0.44,2.73E-06,0.0798,-9.509,0.471,145.116,4,FALSE
+Fire & Desire,Views,Drake,Studio,5/6/16,2016,3.97,39,0.709,0.0803,0.709,0.259,0,0.0855,-14.341,0.0892,79.839,4,FALSE
+Feel No Ways,Views,Drake,Studio,5/6/16,2016,4.01,39,0.581,0.032,0.581,0.673,6.38E-06,0.116,-7.111,0.162,193.668,4,FALSE
+Faithful,Views,Drake,Studio,5/6/16,2016,4.84,32,0.536,0.104,0.536,0.446,1.01E-05,0.323,-10.489,0.162,99.979,4,FALSE
+Controlla,Views,Drake,Studio,5/6/16,2016,4.09,51,0.607,0.0773,0.607,0.476,0,0.113,-11.076,0.249,122.976,5,FALSE
+Childs Play,Views,Drake,Studio,5/6/16,2016,4.02,40,0.691,0.0173,0.691,0.482,7.10E-06,0.197,-11.14,0.231,160.027,4,FALSE
+9,Views,Drake,Studio,5/6/16,2016,4.26,33,0.703,0.00113,0.703,0.699,0.000779,0.246,-7.322,0.044,99.991,4,FALSE
+Scholarships,What A Time To Be Alive,Drake,Mixtape,9/20/15,2015,3.49,29,0.511,0.0931,0.511,0.416,1.12E-05,0.0974,-9.203,0.384,86.678,3,FALSE
+Plastic Bag,What A Time To Be Alive,Drake,Mixtape,9/20/15,2015,3.37,28,0.84,0.0106,0.84,0.477,0,0.157,-6.599,0.325,170.99,3,FALSE
+Live From The Gutter,What A Time To Be Alive,Drake,Mixtape,9/20/15,2015,3.53,27,0.885,0.0335,0.885,0.485,0,0.0805,-8.491,0.24,82.992,4,FALSE
+Jumpman,What A Time To Be Alive,Drake,Mixtape,9/20/15,2015,3.43,49,0.853,0.0462,0.853,0.558,0,0.341,-7.448,0.202,142.079,4,FALSE
+Jersey,What A Time To Be Alive,Drake,Mixtape,9/20/15,2015,3.15,30,0.757,0.511,0.757,0.528,0.000334,0.0936,-10.799,0.274,146.056,4,FALSE
+I'm The Plug,What A Time To Be Alive,Drake,Mixtape,9/20/15,2015,3,26,0.842,0.000394,0.842,0.519,0.00069,0.131,-9.255,0.223,160.003,4,FALSE
+Digital Dash,What A Time To Be Alive,Drake,Mixtape,9/20/15,2015,3.85,30,0.889,0.00311,0.889,0.543,6.85E-06,0.234,-7.666,0.128,140.029,4,FALSE
+Diamonds Dancing,What A Time To Be Alive,Drake,Mixtape,9/20/15,2015,5.24,31,0.522,0.139,0.522,0.362,2.83E-05,0.111,-10.827,0.048,135.797,4,FALSE
+Change Locations,What A Time To Be Alive,Drake,Mixtape,9/20/15,2015,3.68,26,0.804,0.0204,0.804,0.334,0,0.118,-10.135,0.385,137.855,4,FALSE
+Big Rings,What A Time To Be Alive,Drake,Mixtape,9/20/15,2015,3.63,32,0.769,0.00179,0.769,0.676,0,0.251,-6.48,0.277,131.938,4,FALSE
+30 for 30 Freestyle,What A Time To Be Alive,Drake,Mixtape,9/20/15,2015,4.23,25,0.747,0.653,0.747,0.621,0,0.124,-9.115,0.394,89.282,4,FALSE
+Who Do You Love?,Who Do You Love?,YG,Feature,1/1/14,2014,3.89,14,0.675,0.0339,0.675,0.417,0,0.0886,-9.751,0.511,193.094,4,TRUE
