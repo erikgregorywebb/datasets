@@ -1,0 +1,53 @@
+location,address,type,zipcode,lat,lng
+Bountiful,"510 S 200 W Bountiful, UT 84010",Branch,84010,40.8837976,-111.8859697
+Farmington Station Park,"100 N Station Pkwy Farmington, UT 84025",Branch,84025,40.982462,-111.9039241
+One Utah,"201 S Main St Salt Lake City, UT 84111",Branch,84111,40.7645225,-111.8905343
+Fourth And 4Th,"376 E 400 S, Ste 100 Salt Lake City, UT 84111",Branch,84111,40.7602752,-111.8803804
+Foothill,"1285 S 2100 E Salt Lake City, UT 84108",Branch,84108,40.7418852,-111.8303556
+Cedar Hills And Lone Peak,"4782 W Cedar Hills Dr Cedar Hills, UT 84062",Branch,84062,40.41601240000001,-111.7730654
+American Fork,"1454 E Main St Lehi, UT 84043",Branch,84043,40.3882221,-111.8265362
+Lindon,"579 N State St Lindon, UT 84042",Branch,84042,40.3489432,-111.7290282
+Traverse Mountain,"1890 W Traverse Pkwy Lehi, UT 84043",Branch,84043,40.4347484,-111.8803356
+Saratoga Springs,"1412 N Exchange Dr Saratoga Springs, UT 84045",Branch,84045,40.3879761,-111.9216647
+Fort Union,"7045 S 1300 E Cottonwood Heights, UT 84047",Branch,84047,40.6230778,-111.8552912
+Cottonwood Heights,"1845 E Fort Union Blvd Salt Lake City, UT 84121",Branch,84121,40.6249364,-111.8391523
+Cottonwood Highland,"6275 S Highland Dr Salt Lake City, UT 84121",Branch,84121,40.63702,-111.8336278
+East Murray,"5565 S 900 E Salt Lake City, UT 84117",Branch,84117,40.6503586,-111.8654755
+Fashion Place,"6255 S State St Murray, UT 84107",Branch,84107,40.6348952,-111.8887799
+Draper Parkway,"1462 E Draper Pkwy Draper, UT 84020",Branch,84020,40.5272918,-111.8492663
+Draper Crossing,"252 E 12300 S Draper, UT 84020",Branch,84020,40.5263736,-111.8842995
+Bangerter Crossing,"145 E 13800 S Draper, UT 84020",Branch,84020,40.50325249999999,-111.8871807
+Sandy South Towne,"10620 S State St Sandy, UT 84070",Branch,84070,40.5584806,-111.891233
+Sandy Little Cottonwood,"9502 S Highland Dr Sandy, UT 84092",Branch,84092,40.57862739999999,-111.8367834
+Layton,"1275 N Hill Field Rd Layton, UT 84041",Branch,84041,41.0784533,-111.9740936
+North Layton,"1376 E Hwy 193 Layton, UT 84040",Branch,84040,41.1004082,-111.9403791
+South Ogden,"1762 E Skyline Dr South Ogden, UT 84405",Branch,84405,41.1520194,-111.9369253
+Heber,"1225 S 300 W Heber City, UT 84032",Branch,84032,40.491859,-111.4176676
+Park City,"1650 Park Ave Park City, UT 84060",Branch,84060,40.6573933,-111.5066326
+Kimball Junction,"6250 N Sagewood Dr Park City, UT 84098",Branch,84098,40.7222474,-111.5437559
+Ogden,"2910 Washington Blvd Ogden, UT 84401",Branch,84401,41.2120235,-111.9702743
+Orem,"1115 S 800 E Orem, UT 84097",Branch,84097,40.2766501,-111.6757144
+Brigham Young University,"800 E Campus Dr Provo, UT 84602",ATM,84602,40.2507329,-111.6477374
+Logan Smiths,"750 N Main St Logan, UT 84321",Branch,84321,41.7455358,-111.8328243
+Providence Town Center,"84 N Hwy 165 Providence, UT 84332",Branch,84332,41.70974,-111.8339065
+Wall And 12Th,"125 W 12th St Ogden, UT 84404",Branch,84404,41.2438744,-111.9790307
+Woodlands,"4041 S 700 E, Ste 3 Salt Lake City, UT 84107",Branch,84107,40.6840825,-111.8707853
+East 39Th South,"1285 E 3900 S Salt Lake City, UT 84124",Branch,84124,40.6873598,-111.8544772
+Mid Valley,"5656 S Redwood Rd Taylorsville, UT 84123",Branch,84123,40.6488113,-111.9396128
+Provo University Ave,"310 N University Ave Provo, UT 84601",Branch,84601,40.23799349999999,-111.6583237
+Provo East Bay,"1177 S University Ave Provo, UT 84601",Branch,84601,40.2181477,-111.6584801
+Canyon Rim Smiths,"3215 S Valley St Salt Lake City, UT 84109",ATM,84109,40.7010771,-111.7989153
+Olympus,"2855 E 3300 S Salt Lake City, UT 84109",Branch,84109,40.7001851,-111.8112585
+Riverton,"3793 W 13400 S Riverton, UT 84065",Branch,84065,40.507329,-111.9798691
+South Jordan The District,"11423 S Pkwy Plaza Dr South Jordan, UT 84095",Branch,84095,40.5436484,-111.9781315
+Glendale Redwood,"1295 S Redwood Rd Salt Lake City, UT 84104",Branch,84104,40.7409768,-111.9383226
+South Salt Lake,"2610 S State St Salt Lake City, UT 84115",Branch,84115,40.7139544,-111.8887554
+West Jordan,"9100 S Redwood Rd West Jordan, UT 84088",Branch,84088,40.5859771,-111.9393473
+St George,"95 E Tabernacle St George, UT 84770",Branch,84770,37.1084162,-113.5814526
+Sunset And Dixie,"1999 W Sunset Blvd St George, UT 84770",Branch,84770,37.1230568,-113.6262764
+Telegraph And 700 West,"715 W Telegraph St Washington, UT 84780",Branch,84780,37.1278161,-113.5208986
+Pioneer Rd Walmart,"2610 Pioneer Rd St George, UT 84790",Branch,84790,37.0634342,-113.5863965
+Taylorsville,"4695 S 2700 W Salt Lake City, UT 84129",Branch,84129,40.6679097,-111.9576312
+Redwood Rd,"3430 S Redwood Rd Salt Lake City, UT 84119",Branch,84119,40.6980145,-111.9394405
+West Valley City,"4065 W 3500 S Salt Lake City, UT 84120",Branch,84120,40.6962319,-111.9881597
+Jordan Landing,"7352 S Plaza Center Dr West Jordan, UT 84084",Branch,84084,40.6174974,-111.9797848
