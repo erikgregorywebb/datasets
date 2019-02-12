@@ -1,0 +1,1189 @@
+"Location","Education","Years of Experience","Percentile","Salary"
+"New York City","Less than Bachelors",0,"25th",74000
+"New York City","Less than Bachelors",1,"25th",76000
+"New York City","Less than Bachelors",2,"25th",78000
+"New York City","Less than Bachelors",3,"25th",80000
+"New York City","Less than Bachelors",4,"25th",82000
+"New York City","Less than Bachelors",5,"25th",84000
+"New York City","Less than Bachelors",6,"25th",86000
+"New York City","Less than Bachelors",7,"25th",88000
+"New York City","Less than Bachelors",8,"25th",91000
+"New York City","Less than Bachelors",9,"25th",93000
+"New York City","Less than Bachelors",10,"25th",95000
+"New York City","Bachelors Degree",0,"25th",81000
+"New York City","Bachelors Degree",1,"25th",83000
+"New York City","Bachelors Degree",2,"25th",85000
+"New York City","Bachelors Degree",3,"25th",87000
+"New York City","Bachelors Degree",4,"25th",89000
+"New York City","Bachelors Degree",5,"25th",92000
+"New York City","Bachelors Degree",6,"25th",94000
+"New York City","Bachelors Degree",7,"25th",96000
+"New York City","Bachelors Degree",8,"25th",99000
+"New York City","Bachelors Degree",9,"25th",101000
+"New York City","Bachelors Degree",10,"25th",104000
+"New York City","Graduate Degree",0,"25th",86000
+"New York City","Graduate Degree",1,"25th",88000
+"New York City","Graduate Degree",2,"25th",90000
+"New York City","Graduate Degree",3,"25th",93000
+"New York City","Graduate Degree",4,"25th",95000
+"New York City","Graduate Degree",5,"25th",97000
+"New York City","Graduate Degree",6,"25th",1e+05
+"New York City","Graduate Degree",7,"25th",102000
+"New York City","Graduate Degree",8,"25th",105000
+"New York City","Graduate Degree",9,"25th",108000
+"New York City","Graduate Degree",10,"25th",110000
+"New York City","Post-Graduate Degree",0,"25th",86000
+"New York City","Post-Graduate Degree",1,"25th",88000
+"New York City","Post-Graduate Degree",2,"25th",90000
+"New York City","Post-Graduate Degree",3,"25th",93000
+"New York City","Post-Graduate Degree",4,"25th",95000
+"New York City","Post-Graduate Degree",5,"25th",97000
+"New York City","Post-Graduate Degree",6,"25th",1e+05
+"New York City","Post-Graduate Degree",7,"25th",102000
+"New York City","Post-Graduate Degree",8,"25th",105000
+"New York City","Post-Graduate Degree",9,"25th",108000
+"New York City","Post-Graduate Degree",10,"25th",110000
+"Salt Lake City","Less than Bachelors",0,"25th",58000
+"Salt Lake City","Less than Bachelors",1,"25th",59000
+"Salt Lake City","Less than Bachelors",2,"25th",61000
+"Salt Lake City","Less than Bachelors",3,"25th",62000
+"Salt Lake City","Less than Bachelors",4,"25th",64000
+"Salt Lake City","Less than Bachelors",5,"25th",65000
+"Salt Lake City","Less than Bachelors",6,"25th",67000
+"Salt Lake City","Less than Bachelors",7,"25th",69000
+"Salt Lake City","Less than Bachelors",8,"25th",70000
+"Salt Lake City","Less than Bachelors",9,"25th",72000
+"Salt Lake City","Less than Bachelors",10,"25th",74000
+"Salt Lake City","Bachelors Degree",0,"25th",63000
+"Salt Lake City","Bachelors Degree",1,"25th",64000
+"Salt Lake City","Bachelors Degree",2,"25th",66000
+"Salt Lake City","Bachelors Degree",3,"25th",67000
+"Salt Lake City","Bachelors Degree",4,"25th",69000
+"Salt Lake City","Bachelors Degree",5,"25th",71000
+"Salt Lake City","Bachelors Degree",6,"25th",73000
+"Salt Lake City","Bachelors Degree",7,"25th",75000
+"Salt Lake City","Bachelors Degree",8,"25th",76000
+"Salt Lake City","Bachelors Degree",9,"25th",78000
+"Salt Lake City","Bachelors Degree",10,"25th",80000
+"Salt Lake City","Graduate Degree",0,"25th",67000
+"Salt Lake City","Graduate Degree",1,"25th",68000
+"Salt Lake City","Graduate Degree",2,"25th",70000
+"Salt Lake City","Graduate Degree",3,"25th",72000
+"Salt Lake City","Graduate Degree",4,"25th",74000
+"Salt Lake City","Graduate Degree",5,"25th",75000
+"Salt Lake City","Graduate Degree",6,"25th",77000
+"Salt Lake City","Graduate Degree",7,"25th",79000
+"Salt Lake City","Graduate Degree",8,"25th",81000
+"Salt Lake City","Graduate Degree",9,"25th",83000
+"Salt Lake City","Graduate Degree",10,"25th",86000
+"Salt Lake City","Post-Graduate Degree",0,"25th",67000
+"Salt Lake City","Post-Graduate Degree",1,"25th",68000
+"Salt Lake City","Post-Graduate Degree",2,"25th",70000
+"Salt Lake City","Post-Graduate Degree",3,"25th",72000
+"Salt Lake City","Post-Graduate Degree",4,"25th",74000
+"Salt Lake City","Post-Graduate Degree",5,"25th",75000
+"Salt Lake City","Post-Graduate Degree",6,"25th",77000
+"Salt Lake City","Post-Graduate Degree",7,"25th",79000
+"Salt Lake City","Post-Graduate Degree",8,"25th",81000
+"Salt Lake City","Post-Graduate Degree",9,"25th",83000
+"Salt Lake City","Post-Graduate Degree",10,"25th",86000
+"Houston","Less than Bachelors",0,"25th",58000
+"Houston","Less than Bachelors",1,"25th",59000
+"Houston","Less than Bachelors",2,"25th",61000
+"Houston","Less than Bachelors",3,"25th",62000
+"Houston","Less than Bachelors",4,"25th",64000
+"Houston","Less than Bachelors",5,"25th",65000
+"Houston","Less than Bachelors",6,"25th",67000
+"Houston","Less than Bachelors",7,"25th",69000
+"Houston","Less than Bachelors",8,"25th",70000
+"Houston","Less than Bachelors",9,"25th",72000
+"Houston","Less than Bachelors",10,"25th",74000
+"Houston","Bachelors Degree",0,"25th",63000
+"Houston","Bachelors Degree",1,"25th",64000
+"Houston","Bachelors Degree",2,"25th",66000
+"Houston","Bachelors Degree",3,"25th",67000
+"Houston","Bachelors Degree",4,"25th",69000
+"Houston","Bachelors Degree",5,"25th",71000
+"Houston","Bachelors Degree",6,"25th",73000
+"Houston","Bachelors Degree",7,"25th",75000
+"Houston","Bachelors Degree",8,"25th",76000
+"Houston","Bachelors Degree",9,"25th",78000
+"Houston","Bachelors Degree",10,"25th",80000
+"Houston","Graduate Degree",0,"25th",67000
+"Houston","Graduate Degree",1,"25th",68000
+"Houston","Graduate Degree",2,"25th",70000
+"Houston","Graduate Degree",3,"25th",72000
+"Houston","Graduate Degree",4,"25th",74000
+"Houston","Graduate Degree",5,"25th",75000
+"Houston","Graduate Degree",6,"25th",77000
+"Houston","Graduate Degree",7,"25th",79000
+"Houston","Graduate Degree",8,"25th",81000
+"Houston","Graduate Degree",9,"25th",83000
+"Houston","Graduate Degree",10,"25th",86000
+"Houston","Post-Graduate Degree",0,"25th",67000
+"Houston","Post-Graduate Degree",1,"25th",68000
+"Houston","Post-Graduate Degree",2,"25th",70000
+"Houston","Post-Graduate Degree",3,"25th",72000
+"Houston","Post-Graduate Degree",4,"25th",74000
+"Houston","Post-Graduate Degree",5,"25th",75000
+"Houston","Post-Graduate Degree",6,"25th",77000
+"Houston","Post-Graduate Degree",7,"25th",79000
+"Houston","Post-Graduate Degree",8,"25th",81000
+"Houston","Post-Graduate Degree",9,"25th",83000
+"Houston","Post-Graduate Degree",10,"25th",86000
+"San Francisco","Less than Bachelors",0,"25th",83000
+"San Francisco","Less than Bachelors",1,"25th",85000
+"San Francisco","Less than Bachelors",2,"25th",87000
+"San Francisco","Less than Bachelors",3,"25th",90000
+"San Francisco","Less than Bachelors",4,"25th",92000
+"San Francisco","Less than Bachelors",5,"25th",94000
+"San Francisco","Less than Bachelors",6,"25th",97000
+"San Francisco","Less than Bachelors",7,"25th",99000
+"San Francisco","Less than Bachelors",8,"25th",101000
+"San Francisco","Less than Bachelors",9,"25th",104000
+"San Francisco","Less than Bachelors",10,"25th",107000
+"San Francisco","Bachelors Degree",0,"25th",90000
+"San Francisco","Bachelors Degree",1,"25th",93000
+"San Francisco","Bachelors Degree",2,"25th",95000
+"San Francisco","Bachelors Degree",3,"25th",97000
+"San Francisco","Bachelors Degree",4,"25th",1e+05
+"San Francisco","Bachelors Degree",5,"25th",102000
+"San Francisco","Bachelors Degree",6,"25th",105000
+"San Francisco","Bachelors Degree",7,"25th",108000
+"San Francisco","Bachelors Degree",8,"25th",110000
+"San Francisco","Bachelors Degree",9,"25th",113000
+"San Francisco","Bachelors Degree",10,"25th",116000
+"San Francisco","Graduate Degree",0,"25th",96000
+"San Francisco","Graduate Degree",1,"25th",99000
+"San Francisco","Graduate Degree",2,"25th",101000
+"San Francisco","Graduate Degree",3,"25th",104000
+"San Francisco","Graduate Degree",4,"25th",106000
+"San Francisco","Graduate Degree",5,"25th",109000
+"San Francisco","Graduate Degree",6,"25th",112000
+"San Francisco","Graduate Degree",7,"25th",115000
+"San Francisco","Graduate Degree",8,"25th",117000
+"San Francisco","Graduate Degree",9,"25th",120000
+"San Francisco","Graduate Degree",10,"25th",124000
+"San Francisco","Post-Graduate Degree",0,"25th",96000
+"San Francisco","Post-Graduate Degree",1,"25th",99000
+"San Francisco","Post-Graduate Degree",2,"25th",101000
+"San Francisco","Post-Graduate Degree",3,"25th",104000
+"San Francisco","Post-Graduate Degree",4,"25th",106000
+"San Francisco","Post-Graduate Degree",5,"25th",109000
+"San Francisco","Post-Graduate Degree",6,"25th",112000
+"San Francisco","Post-Graduate Degree",7,"25th",115000
+"San Francisco","Post-Graduate Degree",8,"25th",117000
+"San Francisco","Post-Graduate Degree",9,"25th",120000
+"San Francisco","Post-Graduate Degree",10,"25th",124000
+"San Jose","Less than Bachelors",0,"25th",83000
+"San Jose","Less than Bachelors",1,"25th",85000
+"San Jose","Less than Bachelors",2,"25th",87000
+"San Jose","Less than Bachelors",3,"25th",90000
+"San Jose","Less than Bachelors",4,"25th",92000
+"San Jose","Less than Bachelors",5,"25th",94000
+"San Jose","Less than Bachelors",6,"25th",97000
+"San Jose","Less than Bachelors",7,"25th",99000
+"San Jose","Less than Bachelors",8,"25th",101000
+"San Jose","Less than Bachelors",9,"25th",104000
+"San Jose","Less than Bachelors",10,"25th",107000
+"San Jose","Bachelors Degree",0,"25th",90000
+"San Jose","Bachelors Degree",1,"25th",93000
+"San Jose","Bachelors Degree",2,"25th",95000
+"San Jose","Bachelors Degree",3,"25th",97000
+"San Jose","Bachelors Degree",4,"25th",1e+05
+"San Jose","Bachelors Degree",5,"25th",102000
+"San Jose","Bachelors Degree",6,"25th",105000
+"San Jose","Bachelors Degree",7,"25th",108000
+"San Jose","Bachelors Degree",8,"25th",110000
+"San Jose","Bachelors Degree",9,"25th",113000
+"San Jose","Bachelors Degree",10,"25th",116000
+"San Jose","Graduate Degree",0,"25th",96000
+"San Jose","Graduate Degree",1,"25th",99000
+"San Jose","Graduate Degree",2,"25th",101000
+"San Jose","Graduate Degree",3,"25th",104000
+"San Jose","Graduate Degree",4,"25th",106000
+"San Jose","Graduate Degree",5,"25th",109000
+"San Jose","Graduate Degree",6,"25th",112000
+"San Jose","Graduate Degree",7,"25th",115000
+"San Jose","Graduate Degree",8,"25th",117000
+"San Jose","Graduate Degree",9,"25th",120000
+"San Jose","Graduate Degree",10,"25th",124000
+"San Jose","Post-Graduate Degree",0,"25th",96000
+"San Jose","Post-Graduate Degree",1,"25th",99000
+"San Jose","Post-Graduate Degree",2,"25th",101000
+"San Jose","Post-Graduate Degree",3,"25th",104000
+"San Jose","Post-Graduate Degree",4,"25th",106000
+"San Jose","Post-Graduate Degree",5,"25th",109000
+"San Jose","Post-Graduate Degree",6,"25th",112000
+"San Jose","Post-Graduate Degree",7,"25th",115000
+"San Jose","Post-Graduate Degree",8,"25th",117000
+"San Jose","Post-Graduate Degree",9,"25th",120000
+"San Jose","Post-Graduate Degree",10,"25th",124000
+"Los Angeles","Less than Bachelors",0,"25th",58000
+"Los Angeles","Less than Bachelors",1,"25th",59000
+"Los Angeles","Less than Bachelors",2,"25th",61000
+"Los Angeles","Less than Bachelors",3,"25th",62000
+"Los Angeles","Less than Bachelors",4,"25th",64000
+"Los Angeles","Less than Bachelors",5,"25th",65000
+"Los Angeles","Less than Bachelors",6,"25th",67000
+"Los Angeles","Less than Bachelors",7,"25th",69000
+"Los Angeles","Less than Bachelors",8,"25th",70000
+"Los Angeles","Less than Bachelors",9,"25th",72000
+"Los Angeles","Less than Bachelors",10,"25th",74000
+"Los Angeles","Bachelors Degree",0,"25th",63000
+"Los Angeles","Bachelors Degree",1,"25th",64000
+"Los Angeles","Bachelors Degree",2,"25th",66000
+"Los Angeles","Bachelors Degree",3,"25th",67000
+"Los Angeles","Bachelors Degree",4,"25th",69000
+"Los Angeles","Bachelors Degree",5,"25th",71000
+"Los Angeles","Bachelors Degree",6,"25th",73000
+"Los Angeles","Bachelors Degree",7,"25th",75000
+"Los Angeles","Bachelors Degree",8,"25th",76000
+"Los Angeles","Bachelors Degree",9,"25th",78000
+"Los Angeles","Bachelors Degree",10,"25th",80000
+"Los Angeles","Graduate Degree",0,"25th",67000
+"Los Angeles","Graduate Degree",1,"25th",68000
+"Los Angeles","Graduate Degree",2,"25th",70000
+"Los Angeles","Graduate Degree",3,"25th",72000
+"Los Angeles","Graduate Degree",4,"25th",74000
+"Los Angeles","Graduate Degree",5,"25th",75000
+"Los Angeles","Graduate Degree",6,"25th",77000
+"Los Angeles","Graduate Degree",7,"25th",79000
+"Los Angeles","Graduate Degree",8,"25th",81000
+"Los Angeles","Graduate Degree",9,"25th",83000
+"Los Angeles","Graduate Degree",10,"25th",86000
+"Los Angeles","Post-Graduate Degree",0,"25th",67000
+"Los Angeles","Post-Graduate Degree",1,"25th",68000
+"Los Angeles","Post-Graduate Degree",2,"25th",70000
+"Los Angeles","Post-Graduate Degree",3,"25th",72000
+"Los Angeles","Post-Graduate Degree",4,"25th",74000
+"Los Angeles","Post-Graduate Degree",5,"25th",75000
+"Los Angeles","Post-Graduate Degree",6,"25th",77000
+"Los Angeles","Post-Graduate Degree",7,"25th",79000
+"Los Angeles","Post-Graduate Degree",8,"25th",81000
+"Los Angeles","Post-Graduate Degree",9,"25th",83000
+"Los Angeles","Post-Graduate Degree",10,"25th",86000
+"Chicago","Less than Bachelors",0,"25th",58000
+"Chicago","Less than Bachelors",1,"25th",59000
+"Chicago","Less than Bachelors",2,"25th",61000
+"Chicago","Less than Bachelors",3,"25th",62000
+"Chicago","Less than Bachelors",4,"25th",64000
+"Chicago","Less than Bachelors",5,"25th",65000
+"Chicago","Less than Bachelors",6,"25th",67000
+"Chicago","Less than Bachelors",7,"25th",69000
+"Chicago","Less than Bachelors",8,"25th",70000
+"Chicago","Less than Bachelors",9,"25th",72000
+"Chicago","Less than Bachelors",10,"25th",74000
+"Chicago","Bachelors Degree",0,"25th",63000
+"Chicago","Bachelors Degree",1,"25th",64000
+"Chicago","Bachelors Degree",2,"25th",66000
+"Chicago","Bachelors Degree",3,"25th",67000
+"Chicago","Bachelors Degree",4,"25th",69000
+"Chicago","Bachelors Degree",5,"25th",71000
+"Chicago","Bachelors Degree",6,"25th",73000
+"Chicago","Bachelors Degree",7,"25th",75000
+"Chicago","Bachelors Degree",8,"25th",76000
+"Chicago","Bachelors Degree",9,"25th",78000
+"Chicago","Bachelors Degree",10,"25th",80000
+"Chicago","Graduate Degree",0,"25th",67000
+"Chicago","Graduate Degree",1,"25th",68000
+"Chicago","Graduate Degree",2,"25th",70000
+"Chicago","Graduate Degree",3,"25th",72000
+"Chicago","Graduate Degree",4,"25th",74000
+"Chicago","Graduate Degree",5,"25th",75000
+"Chicago","Graduate Degree",6,"25th",77000
+"Chicago","Graduate Degree",7,"25th",79000
+"Chicago","Graduate Degree",8,"25th",81000
+"Chicago","Graduate Degree",9,"25th",83000
+"Chicago","Graduate Degree",10,"25th",86000
+"Chicago","Post-Graduate Degree",0,"25th",67000
+"Chicago","Post-Graduate Degree",1,"25th",68000
+"Chicago","Post-Graduate Degree",2,"25th",70000
+"Chicago","Post-Graduate Degree",3,"25th",72000
+"Chicago","Post-Graduate Degree",4,"25th",74000
+"Chicago","Post-Graduate Degree",5,"25th",75000
+"Chicago","Post-Graduate Degree",6,"25th",77000
+"Chicago","Post-Graduate Degree",7,"25th",79000
+"Chicago","Post-Graduate Degree",8,"25th",81000
+"Chicago","Post-Graduate Degree",9,"25th",83000
+"Chicago","Post-Graduate Degree",10,"25th",86000
+"Phoenix","Less than Bachelors",0,"25th",58000
+"Phoenix","Less than Bachelors",1,"25th",59000
+"Phoenix","Less than Bachelors",2,"25th",61000
+"Phoenix","Less than Bachelors",3,"25th",62000
+"Phoenix","Less than Bachelors",4,"25th",64000
+"Phoenix","Less than Bachelors",5,"25th",65000
+"Phoenix","Less than Bachelors",6,"25th",67000
+"Phoenix","Less than Bachelors",7,"25th",69000
+"Phoenix","Less than Bachelors",8,"25th",70000
+"Phoenix","Less than Bachelors",9,"25th",72000
+"Phoenix","Less than Bachelors",10,"25th",74000
+"Phoenix","Bachelors Degree",0,"25th",63000
+"Phoenix","Bachelors Degree",1,"25th",64000
+"Phoenix","Bachelors Degree",2,"25th",66000
+"Phoenix","Bachelors Degree",3,"25th",67000
+"Phoenix","Bachelors Degree",4,"25th",69000
+"Phoenix","Bachelors Degree",5,"25th",71000
+"Phoenix","Bachelors Degree",6,"25th",73000
+"Phoenix","Bachelors Degree",7,"25th",75000
+"Phoenix","Bachelors Degree",8,"25th",76000
+"Phoenix","Bachelors Degree",9,"25th",78000
+"Phoenix","Bachelors Degree",10,"25th",80000
+"Phoenix","Graduate Degree",0,"25th",67000
+"Phoenix","Graduate Degree",1,"25th",68000
+"Phoenix","Graduate Degree",2,"25th",70000
+"Phoenix","Graduate Degree",3,"25th",72000
+"Phoenix","Graduate Degree",4,"25th",74000
+"Phoenix","Graduate Degree",5,"25th",75000
+"Phoenix","Graduate Degree",6,"25th",77000
+"Phoenix","Graduate Degree",7,"25th",79000
+"Phoenix","Graduate Degree",8,"25th",81000
+"Phoenix","Graduate Degree",9,"25th",83000
+"Phoenix","Graduate Degree",10,"25th",86000
+"Phoenix","Post-Graduate Degree",0,"25th",67000
+"Phoenix","Post-Graduate Degree",1,"25th",68000
+"Phoenix","Post-Graduate Degree",2,"25th",70000
+"Phoenix","Post-Graduate Degree",3,"25th",72000
+"Phoenix","Post-Graduate Degree",4,"25th",74000
+"Phoenix","Post-Graduate Degree",5,"25th",75000
+"Phoenix","Post-Graduate Degree",6,"25th",77000
+"Phoenix","Post-Graduate Degree",7,"25th",79000
+"Phoenix","Post-Graduate Degree",8,"25th",81000
+"Phoenix","Post-Graduate Degree",9,"25th",83000
+"Phoenix","Post-Graduate Degree",10,"25th",86000
+"Boston","Less than Bachelors",0,"25th",58000
+"Boston","Less than Bachelors",1,"25th",59000
+"Boston","Less than Bachelors",2,"25th",61000
+"Boston","Less than Bachelors",3,"25th",62000
+"Boston","Less than Bachelors",4,"25th",64000
+"Boston","Less than Bachelors",5,"25th",65000
+"Boston","Less than Bachelors",6,"25th",67000
+"Boston","Less than Bachelors",7,"25th",69000
+"Boston","Less than Bachelors",8,"25th",70000
+"Boston","Less than Bachelors",9,"25th",72000
+"Boston","Less than Bachelors",10,"25th",74000
+"Boston","Bachelors Degree",0,"25th",63000
+"Boston","Bachelors Degree",1,"25th",64000
+"Boston","Bachelors Degree",2,"25th",66000
+"Boston","Bachelors Degree",3,"25th",67000
+"Boston","Bachelors Degree",4,"25th",69000
+"Boston","Bachelors Degree",5,"25th",71000
+"Boston","Bachelors Degree",6,"25th",73000
+"Boston","Bachelors Degree",7,"25th",75000
+"Boston","Bachelors Degree",8,"25th",76000
+"Boston","Bachelors Degree",9,"25th",78000
+"Boston","Bachelors Degree",10,"25th",80000
+"Boston","Graduate Degree",0,"25th",67000
+"Boston","Graduate Degree",1,"25th",68000
+"Boston","Graduate Degree",2,"25th",70000
+"Boston","Graduate Degree",3,"25th",72000
+"Boston","Graduate Degree",4,"25th",74000
+"Boston","Graduate Degree",5,"25th",75000
+"Boston","Graduate Degree",6,"25th",77000
+"Boston","Graduate Degree",7,"25th",79000
+"Boston","Graduate Degree",8,"25th",81000
+"Boston","Graduate Degree",9,"25th",83000
+"Boston","Graduate Degree",10,"25th",86000
+"Boston","Post-Graduate Degree",0,"25th",67000
+"Boston","Post-Graduate Degree",1,"25th",68000
+"Boston","Post-Graduate Degree",2,"25th",70000
+"Boston","Post-Graduate Degree",3,"25th",72000
+"Boston","Post-Graduate Degree",4,"25th",74000
+"Boston","Post-Graduate Degree",5,"25th",75000
+"Boston","Post-Graduate Degree",6,"25th",77000
+"Boston","Post-Graduate Degree",7,"25th",79000
+"Boston","Post-Graduate Degree",8,"25th",81000
+"Boston","Post-Graduate Degree",9,"25th",83000
+"Boston","Post-Graduate Degree",10,"25th",86000
+"New York City","Less than Bachelors",0,"50th",94000
+"New York City","Less than Bachelors",1,"50th",96000
+"New York City","Less than Bachelors",2,"50th",99000
+"New York City","Less than Bachelors",3,"50th",101000
+"New York City","Less than Bachelors",4,"50th",104000
+"New York City","Less than Bachelors",5,"50th",106000
+"New York City","Less than Bachelors",6,"50th",109000
+"New York City","Less than Bachelors",7,"50th",112000
+"New York City","Less than Bachelors",8,"50th",115000
+"New York City","Less than Bachelors",9,"50th",118000
+"New York City","Less than Bachelors",10,"50th",121000
+"New York City","Bachelors Degree",0,"50th",102000
+"New York City","Bachelors Degree",1,"50th",105000
+"New York City","Bachelors Degree",2,"50th",107000
+"New York City","Bachelors Degree",3,"50th",110000
+"New York City","Bachelors Degree",4,"50th",113000
+"New York City","Bachelors Degree",5,"50th",116000
+"New York City","Bachelors Degree",6,"50th",119000
+"New York City","Bachelors Degree",7,"50th",122000
+"New York City","Bachelors Degree",8,"50th",125000
+"New York City","Bachelors Degree",9,"50th",128000
+"New York City","Bachelors Degree",10,"50th",131000
+"New York City","Graduate Degree",0,"50th",109000
+"New York City","Graduate Degree",1,"50th",111000
+"New York City","Graduate Degree",2,"50th",114000
+"New York City","Graduate Degree",3,"50th",117000
+"New York City","Graduate Degree",4,"50th",120000
+"New York City","Graduate Degree",5,"50th",123000
+"New York City","Graduate Degree",6,"50th",126000
+"New York City","Graduate Degree",7,"50th",130000
+"New York City","Graduate Degree",8,"50th",133000
+"New York City","Graduate Degree",9,"50th",136000
+"New York City","Graduate Degree",10,"50th",140000
+"New York City","Post-Graduate Degree",0,"50th",109000
+"New York City","Post-Graduate Degree",1,"50th",111000
+"New York City","Post-Graduate Degree",2,"50th",114000
+"New York City","Post-Graduate Degree",3,"50th",117000
+"New York City","Post-Graduate Degree",4,"50th",120000
+"New York City","Post-Graduate Degree",5,"50th",123000
+"New York City","Post-Graduate Degree",6,"50th",126000
+"New York City","Post-Graduate Degree",7,"50th",130000
+"New York City","Post-Graduate Degree",8,"50th",133000
+"New York City","Post-Graduate Degree",9,"50th",136000
+"New York City","Post-Graduate Degree",10,"50th",140000
+"Salt Lake City","Less than Bachelors",0,"50th",73000
+"Salt Lake City","Less than Bachelors",1,"50th",75000
+"Salt Lake City","Less than Bachelors",2,"50th",76000
+"Salt Lake City","Less than Bachelors",3,"50th",78000
+"Salt Lake City","Less than Bachelors",4,"50th",80000
+"Salt Lake City","Less than Bachelors",5,"50th",82000
+"Salt Lake City","Less than Bachelors",6,"50th",85000
+"Salt Lake City","Less than Bachelors",7,"50th",87000
+"Salt Lake City","Less than Bachelors",8,"50th",89000
+"Salt Lake City","Less than Bachelors",9,"50th",91000
+"Salt Lake City","Less than Bachelors",10,"50th",93000
+"Salt Lake City","Bachelors Degree",0,"50th",79000
+"Salt Lake City","Bachelors Degree",1,"50th",81000
+"Salt Lake City","Bachelors Degree",2,"50th",83000
+"Salt Lake City","Bachelors Degree",3,"50th",85000
+"Salt Lake City","Bachelors Degree",4,"50th",87000
+"Salt Lake City","Bachelors Degree",5,"50th",90000
+"Salt Lake City","Bachelors Degree",6,"50th",92000
+"Salt Lake City","Bachelors Degree",7,"50th",94000
+"Salt Lake City","Bachelors Degree",8,"50th",97000
+"Salt Lake City","Bachelors Degree",9,"50th",99000
+"Salt Lake City","Bachelors Degree",10,"50th",102000
+"Salt Lake City","Graduate Degree",0,"50th",84000
+"Salt Lake City","Graduate Degree",1,"50th",86000
+"Salt Lake City","Graduate Degree",2,"50th",89000
+"Salt Lake City","Graduate Degree",3,"50th",91000
+"Salt Lake City","Graduate Degree",4,"50th",93000
+"Salt Lake City","Graduate Degree",5,"50th",95000
+"Salt Lake City","Graduate Degree",6,"50th",98000
+"Salt Lake City","Graduate Degree",7,"50th",1e+05
+"Salt Lake City","Graduate Degree",8,"50th",103000
+"Salt Lake City","Graduate Degree",9,"50th",105000
+"Salt Lake City","Graduate Degree",10,"50th",108000
+"Salt Lake City","Post-Graduate Degree",0,"50th",84000
+"Salt Lake City","Post-Graduate Degree",1,"50th",86000
+"Salt Lake City","Post-Graduate Degree",2,"50th",89000
+"Salt Lake City","Post-Graduate Degree",3,"50th",91000
+"Salt Lake City","Post-Graduate Degree",4,"50th",93000
+"Salt Lake City","Post-Graduate Degree",5,"50th",95000
+"Salt Lake City","Post-Graduate Degree",6,"50th",98000
+"Salt Lake City","Post-Graduate Degree",7,"50th",1e+05
+"Salt Lake City","Post-Graduate Degree",8,"50th",103000
+"Salt Lake City","Post-Graduate Degree",9,"50th",105000
+"Salt Lake City","Post-Graduate Degree",10,"50th",108000
+"Houston","Less than Bachelors",0,"50th",73000
+"Houston","Less than Bachelors",1,"50th",75000
+"Houston","Less than Bachelors",2,"50th",76000
+"Houston","Less than Bachelors",3,"50th",78000
+"Houston","Less than Bachelors",4,"50th",80000
+"Houston","Less than Bachelors",5,"50th",82000
+"Houston","Less than Bachelors",6,"50th",85000
+"Houston","Less than Bachelors",7,"50th",87000
+"Houston","Less than Bachelors",8,"50th",89000
+"Houston","Less than Bachelors",9,"50th",91000
+"Houston","Less than Bachelors",10,"50th",93000
+"Houston","Bachelors Degree",0,"50th",79000
+"Houston","Bachelors Degree",1,"50th",81000
+"Houston","Bachelors Degree",2,"50th",83000
+"Houston","Bachelors Degree",3,"50th",85000
+"Houston","Bachelors Degree",4,"50th",87000
+"Houston","Bachelors Degree",5,"50th",90000
+"Houston","Bachelors Degree",6,"50th",92000
+"Houston","Bachelors Degree",7,"50th",94000
+"Houston","Bachelors Degree",8,"50th",97000
+"Houston","Bachelors Degree",9,"50th",99000
+"Houston","Bachelors Degree",10,"50th",102000
+"Houston","Graduate Degree",0,"50th",84000
+"Houston","Graduate Degree",1,"50th",86000
+"Houston","Graduate Degree",2,"50th",89000
+"Houston","Graduate Degree",3,"50th",91000
+"Houston","Graduate Degree",4,"50th",93000
+"Houston","Graduate Degree",5,"50th",95000
+"Houston","Graduate Degree",6,"50th",98000
+"Houston","Graduate Degree",7,"50th",1e+05
+"Houston","Graduate Degree",8,"50th",103000
+"Houston","Graduate Degree",9,"50th",105000
+"Houston","Graduate Degree",10,"50th",108000
+"Houston","Post-Graduate Degree",0,"50th",84000
+"Houston","Post-Graduate Degree",1,"50th",86000
+"Houston","Post-Graduate Degree",2,"50th",89000
+"Houston","Post-Graduate Degree",3,"50th",91000
+"Houston","Post-Graduate Degree",4,"50th",93000
+"Houston","Post-Graduate Degree",5,"50th",95000
+"Houston","Post-Graduate Degree",6,"50th",98000
+"Houston","Post-Graduate Degree",7,"50th",1e+05
+"Houston","Post-Graduate Degree",8,"50th",103000
+"Houston","Post-Graduate Degree",9,"50th",105000
+"Houston","Post-Graduate Degree",10,"50th",108000
+"San Francisco","Less than Bachelors",0,"50th",105000
+"San Francisco","Less than Bachelors",1,"50th",108000
+"San Francisco","Less than Bachelors",2,"50th",110000
+"San Francisco","Less than Bachelors",3,"50th",113000
+"San Francisco","Less than Bachelors",4,"50th",116000
+"San Francisco","Less than Bachelors",5,"50th",119000
+"San Francisco","Less than Bachelors",6,"50th",122000
+"San Francisco","Less than Bachelors",7,"50th",125000
+"San Francisco","Less than Bachelors",8,"50th",128000
+"San Francisco","Less than Bachelors",9,"50th",132000
+"San Francisco","Less than Bachelors",10,"50th",135000
+"San Francisco","Bachelors Degree",0,"50th",114000
+"San Francisco","Bachelors Degree",1,"50th",117000
+"San Francisco","Bachelors Degree",2,"50th",120000
+"San Francisco","Bachelors Degree",3,"50th",123000
+"San Francisco","Bachelors Degree",4,"50th",126000
+"San Francisco","Bachelors Degree",5,"50th",129000
+"San Francisco","Bachelors Degree",6,"50th",133000
+"San Francisco","Bachelors Degree",7,"50th",136000
+"San Francisco","Bachelors Degree",8,"50th",140000
+"San Francisco","Bachelors Degree",9,"50th",143000
+"San Francisco","Bachelors Degree",10,"50th",147000
+"San Francisco","Graduate Degree",0,"50th",122000
+"San Francisco","Graduate Degree",1,"50th",125000
+"San Francisco","Graduate Degree",2,"50th",128000
+"San Francisco","Graduate Degree",3,"50th",131000
+"San Francisco","Graduate Degree",4,"50th",134000
+"San Francisco","Graduate Degree",5,"50th",138000
+"San Francisco","Graduate Degree",6,"50th",141000
+"San Francisco","Graduate Degree",7,"50th",145000
+"San Francisco","Graduate Degree",8,"50th",149000
+"San Francisco","Graduate Degree",9,"50th",152000
+"San Francisco","Graduate Degree",10,"50th",156000
+"San Francisco","Post-Graduate Degree",0,"50th",122000
+"San Francisco","Post-Graduate Degree",1,"50th",125000
+"San Francisco","Post-Graduate Degree",2,"50th",128000
+"San Francisco","Post-Graduate Degree",3,"50th",131000
+"San Francisco","Post-Graduate Degree",4,"50th",134000
+"San Francisco","Post-Graduate Degree",5,"50th",138000
+"San Francisco","Post-Graduate Degree",6,"50th",141000
+"San Francisco","Post-Graduate Degree",7,"50th",145000
+"San Francisco","Post-Graduate Degree",8,"50th",149000
+"San Francisco","Post-Graduate Degree",9,"50th",152000
+"San Francisco","Post-Graduate Degree",10,"50th",156000
+"San Jose","Less than Bachelors",0,"50th",105000
+"San Jose","Less than Bachelors",1,"50th",108000
+"San Jose","Less than Bachelors",2,"50th",110000
+"San Jose","Less than Bachelors",3,"50th",113000
+"San Jose","Less than Bachelors",4,"50th",116000
+"San Jose","Less than Bachelors",5,"50th",119000
+"San Jose","Less than Bachelors",6,"50th",122000
+"San Jose","Less than Bachelors",7,"50th",125000
+"San Jose","Less than Bachelors",8,"50th",128000
+"San Jose","Less than Bachelors",9,"50th",132000
+"San Jose","Less than Bachelors",10,"50th",135000
+"San Jose","Bachelors Degree",0,"50th",114000
+"San Jose","Bachelors Degree",1,"50th",117000
+"San Jose","Bachelors Degree",2,"50th",120000
+"San Jose","Bachelors Degree",3,"50th",123000
+"San Jose","Bachelors Degree",4,"50th",126000
+"San Jose","Bachelors Degree",5,"50th",129000
+"San Jose","Bachelors Degree",6,"50th",133000
+"San Jose","Bachelors Degree",7,"50th",136000
+"San Jose","Bachelors Degree",8,"50th",140000
+"San Jose","Bachelors Degree",9,"50th",143000
+"San Jose","Bachelors Degree",10,"50th",147000
+"San Jose","Graduate Degree",0,"50th",122000
+"San Jose","Graduate Degree",1,"50th",125000
+"San Jose","Graduate Degree",2,"50th",128000
+"San Jose","Graduate Degree",3,"50th",131000
+"San Jose","Graduate Degree",4,"50th",134000
+"San Jose","Graduate Degree",5,"50th",138000
+"San Jose","Graduate Degree",6,"50th",141000
+"San Jose","Graduate Degree",7,"50th",145000
+"San Jose","Graduate Degree",8,"50th",149000
+"San Jose","Graduate Degree",9,"50th",152000
+"San Jose","Graduate Degree",10,"50th",156000
+"San Jose","Post-Graduate Degree",0,"50th",122000
+"San Jose","Post-Graduate Degree",1,"50th",125000
+"San Jose","Post-Graduate Degree",2,"50th",128000
+"San Jose","Post-Graduate Degree",3,"50th",131000
+"San Jose","Post-Graduate Degree",4,"50th",134000
+"San Jose","Post-Graduate Degree",5,"50th",138000
+"San Jose","Post-Graduate Degree",6,"50th",141000
+"San Jose","Post-Graduate Degree",7,"50th",145000
+"San Jose","Post-Graduate Degree",8,"50th",149000
+"San Jose","Post-Graduate Degree",9,"50th",152000
+"San Jose","Post-Graduate Degree",10,"50th",156000
+"Los Angeles","Less than Bachelors",0,"50th",73000
+"Los Angeles","Less than Bachelors",1,"50th",75000
+"Los Angeles","Less than Bachelors",2,"50th",76000
+"Los Angeles","Less than Bachelors",3,"50th",78000
+"Los Angeles","Less than Bachelors",4,"50th",80000
+"Los Angeles","Less than Bachelors",5,"50th",82000
+"Los Angeles","Less than Bachelors",6,"50th",85000
+"Los Angeles","Less than Bachelors",7,"50th",87000
+"Los Angeles","Less than Bachelors",8,"50th",89000
+"Los Angeles","Less than Bachelors",9,"50th",91000
+"Los Angeles","Less than Bachelors",10,"50th",93000
+"Los Angeles","Bachelors Degree",0,"50th",79000
+"Los Angeles","Bachelors Degree",1,"50th",81000
+"Los Angeles","Bachelors Degree",2,"50th",83000
+"Los Angeles","Bachelors Degree",3,"50th",85000
+"Los Angeles","Bachelors Degree",4,"50th",87000
+"Los Angeles","Bachelors Degree",5,"50th",90000
+"Los Angeles","Bachelors Degree",6,"50th",92000
+"Los Angeles","Bachelors Degree",7,"50th",94000
+"Los Angeles","Bachelors Degree",8,"50th",97000
+"Los Angeles","Bachelors Degree",9,"50th",99000
+"Los Angeles","Bachelors Degree",10,"50th",102000
+"Los Angeles","Graduate Degree",0,"50th",84000
+"Los Angeles","Graduate Degree",1,"50th",86000
+"Los Angeles","Graduate Degree",2,"50th",89000
+"Los Angeles","Graduate Degree",3,"50th",91000
+"Los Angeles","Graduate Degree",4,"50th",93000
+"Los Angeles","Graduate Degree",5,"50th",95000
+"Los Angeles","Graduate Degree",6,"50th",98000
+"Los Angeles","Graduate Degree",7,"50th",1e+05
+"Los Angeles","Graduate Degree",8,"50th",103000
+"Los Angeles","Graduate Degree",9,"50th",105000
+"Los Angeles","Graduate Degree",10,"50th",108000
+"Los Angeles","Post-Graduate Degree",0,"50th",84000
+"Los Angeles","Post-Graduate Degree",1,"50th",86000
+"Los Angeles","Post-Graduate Degree",2,"50th",89000
+"Los Angeles","Post-Graduate Degree",3,"50th",91000
+"Los Angeles","Post-Graduate Degree",4,"50th",93000
+"Los Angeles","Post-Graduate Degree",5,"50th",95000
+"Los Angeles","Post-Graduate Degree",6,"50th",98000
+"Los Angeles","Post-Graduate Degree",7,"50th",1e+05
+"Los Angeles","Post-Graduate Degree",8,"50th",103000
+"Los Angeles","Post-Graduate Degree",9,"50th",105000
+"Los Angeles","Post-Graduate Degree",10,"50th",108000
+"Chicago","Less than Bachelors",0,"50th",73000
+"Chicago","Less than Bachelors",1,"50th",75000
+"Chicago","Less than Bachelors",2,"50th",76000
+"Chicago","Less than Bachelors",3,"50th",78000
+"Chicago","Less than Bachelors",4,"50th",80000
+"Chicago","Less than Bachelors",5,"50th",82000
+"Chicago","Less than Bachelors",6,"50th",85000
+"Chicago","Less than Bachelors",7,"50th",87000
+"Chicago","Less than Bachelors",8,"50th",89000
+"Chicago","Less than Bachelors",9,"50th",91000
+"Chicago","Less than Bachelors",10,"50th",93000
+"Chicago","Bachelors Degree",0,"50th",79000
+"Chicago","Bachelors Degree",1,"50th",81000
+"Chicago","Bachelors Degree",2,"50th",83000
+"Chicago","Bachelors Degree",3,"50th",85000
+"Chicago","Bachelors Degree",4,"50th",87000
+"Chicago","Bachelors Degree",5,"50th",90000
+"Chicago","Bachelors Degree",6,"50th",92000
+"Chicago","Bachelors Degree",7,"50th",94000
+"Chicago","Bachelors Degree",8,"50th",97000
+"Chicago","Bachelors Degree",9,"50th",99000
+"Chicago","Bachelors Degree",10,"50th",102000
+"Chicago","Graduate Degree",0,"50th",84000
+"Chicago","Graduate Degree",1,"50th",86000
+"Chicago","Graduate Degree",2,"50th",89000
+"Chicago","Graduate Degree",3,"50th",91000
+"Chicago","Graduate Degree",4,"50th",93000
+"Chicago","Graduate Degree",5,"50th",95000
+"Chicago","Graduate Degree",6,"50th",98000
+"Chicago","Graduate Degree",7,"50th",1e+05
+"Chicago","Graduate Degree",8,"50th",103000
+"Chicago","Graduate Degree",9,"50th",105000
+"Chicago","Graduate Degree",10,"50th",108000
+"Chicago","Post-Graduate Degree",0,"50th",84000
+"Chicago","Post-Graduate Degree",1,"50th",86000
+"Chicago","Post-Graduate Degree",2,"50th",89000
+"Chicago","Post-Graduate Degree",3,"50th",91000
+"Chicago","Post-Graduate Degree",4,"50th",93000
+"Chicago","Post-Graduate Degree",5,"50th",95000
+"Chicago","Post-Graduate Degree",6,"50th",98000
+"Chicago","Post-Graduate Degree",7,"50th",1e+05
+"Chicago","Post-Graduate Degree",8,"50th",103000
+"Chicago","Post-Graduate Degree",9,"50th",105000
+"Chicago","Post-Graduate Degree",10,"50th",108000
+"Phoenix","Less than Bachelors",0,"50th",73000
+"Phoenix","Less than Bachelors",1,"50th",75000
+"Phoenix","Less than Bachelors",2,"50th",76000
+"Phoenix","Less than Bachelors",3,"50th",78000
+"Phoenix","Less than Bachelors",4,"50th",80000
+"Phoenix","Less than Bachelors",5,"50th",82000
+"Phoenix","Less than Bachelors",6,"50th",85000
+"Phoenix","Less than Bachelors",7,"50th",87000
+"Phoenix","Less than Bachelors",8,"50th",89000
+"Phoenix","Less than Bachelors",9,"50th",91000
+"Phoenix","Less than Bachelors",10,"50th",93000
+"Phoenix","Bachelors Degree",0,"50th",79000
+"Phoenix","Bachelors Degree",1,"50th",81000
+"Phoenix","Bachelors Degree",2,"50th",83000
+"Phoenix","Bachelors Degree",3,"50th",85000
+"Phoenix","Bachelors Degree",4,"50th",87000
+"Phoenix","Bachelors Degree",5,"50th",90000
+"Phoenix","Bachelors Degree",6,"50th",92000
+"Phoenix","Bachelors Degree",7,"50th",94000
+"Phoenix","Bachelors Degree",8,"50th",97000
+"Phoenix","Bachelors Degree",9,"50th",99000
+"Phoenix","Bachelors Degree",10,"50th",102000
+"Phoenix","Graduate Degree",0,"50th",84000
+"Phoenix","Graduate Degree",1,"50th",86000
+"Phoenix","Graduate Degree",2,"50th",89000
+"Phoenix","Graduate Degree",3,"50th",91000
+"Phoenix","Graduate Degree",4,"50th",93000
+"Phoenix","Graduate Degree",5,"50th",95000
+"Phoenix","Graduate Degree",6,"50th",98000
+"Phoenix","Graduate Degree",7,"50th",1e+05
+"Phoenix","Graduate Degree",8,"50th",103000
+"Phoenix","Graduate Degree",9,"50th",105000
+"Phoenix","Graduate Degree",10,"50th",108000
+"Phoenix","Post-Graduate Degree",0,"50th",84000
+"Phoenix","Post-Graduate Degree",1,"50th",86000
+"Phoenix","Post-Graduate Degree",2,"50th",89000
+"Phoenix","Post-Graduate Degree",3,"50th",91000
+"Phoenix","Post-Graduate Degree",4,"50th",93000
+"Phoenix","Post-Graduate Degree",5,"50th",95000
+"Phoenix","Post-Graduate Degree",6,"50th",98000
+"Phoenix","Post-Graduate Degree",7,"50th",1e+05
+"Phoenix","Post-Graduate Degree",8,"50th",103000
+"Phoenix","Post-Graduate Degree",9,"50th",105000
+"Phoenix","Post-Graduate Degree",10,"50th",108000
+"Boston","Less than Bachelors",0,"50th",73000
+"Boston","Less than Bachelors",1,"50th",75000
+"Boston","Less than Bachelors",2,"50th",76000
+"Boston","Less than Bachelors",3,"50th",78000
+"Boston","Less than Bachelors",4,"50th",80000
+"Boston","Less than Bachelors",5,"50th",82000
+"Boston","Less than Bachelors",6,"50th",85000
+"Boston","Less than Bachelors",7,"50th",87000
+"Boston","Less than Bachelors",8,"50th",89000
+"Boston","Less than Bachelors",9,"50th",91000
+"Boston","Less than Bachelors",10,"50th",93000
+"Boston","Bachelors Degree",0,"50th",79000
+"Boston","Bachelors Degree",1,"50th",81000
+"Boston","Bachelors Degree",2,"50th",83000
+"Boston","Bachelors Degree",3,"50th",85000
+"Boston","Bachelors Degree",4,"50th",87000
+"Boston","Bachelors Degree",5,"50th",90000
+"Boston","Bachelors Degree",6,"50th",92000
+"Boston","Bachelors Degree",7,"50th",94000
+"Boston","Bachelors Degree",8,"50th",97000
+"Boston","Bachelors Degree",9,"50th",99000
+"Boston","Bachelors Degree",10,"50th",102000
+"Boston","Graduate Degree",0,"50th",84000
+"Boston","Graduate Degree",1,"50th",86000
+"Boston","Graduate Degree",2,"50th",89000
+"Boston","Graduate Degree",3,"50th",91000
+"Boston","Graduate Degree",4,"50th",93000
+"Boston","Graduate Degree",5,"50th",95000
+"Boston","Graduate Degree",6,"50th",98000
+"Boston","Graduate Degree",7,"50th",1e+05
+"Boston","Graduate Degree",8,"50th",103000
+"Boston","Graduate Degree",9,"50th",105000
+"Boston","Graduate Degree",10,"50th",108000
+"Boston","Post-Graduate Degree",0,"50th",84000
+"Boston","Post-Graduate Degree",1,"50th",86000
+"Boston","Post-Graduate Degree",2,"50th",89000
+"Boston","Post-Graduate Degree",3,"50th",91000
+"Boston","Post-Graduate Degree",4,"50th",93000
+"Boston","Post-Graduate Degree",5,"50th",95000
+"Boston","Post-Graduate Degree",6,"50th",98000
+"Boston","Post-Graduate Degree",7,"50th",1e+05
+"Boston","Post-Graduate Degree",8,"50th",103000
+"Boston","Post-Graduate Degree",9,"50th",105000
+"Boston","Post-Graduate Degree",10,"50th",108000
+"New York City","Less than Bachelors",0,"75th",119000
+"New York City","Less than Bachelors",1,"75th",122000
+"New York City","Less than Bachelors",2,"75th",125000
+"New York City","Less than Bachelors",3,"75th",128000
+"New York City","Less than Bachelors",4,"75th",131000
+"New York City","Less than Bachelors",5,"75th",135000
+"New York City","Less than Bachelors",6,"75th",138000
+"New York City","Less than Bachelors",7,"75th",141000
+"New York City","Less than Bachelors",8,"75th",145000
+"New York City","Less than Bachelors",9,"75th",149000
+"New York City","Less than Bachelors",10,"75th",153000
+"New York City","Bachelors Degree",0,"75th",129000
+"New York City","Bachelors Degree",1,"75th",132000
+"New York City","Bachelors Degree",2,"75th",136000
+"New York City","Bachelors Degree",3,"75th",139000
+"New York City","Bachelors Degree",4,"75th",143000
+"New York City","Bachelors Degree",5,"75th",146000
+"New York City","Bachelors Degree",6,"75th",150000
+"New York City","Bachelors Degree",7,"75th",154000
+"New York City","Bachelors Degree",8,"75th",158000
+"New York City","Bachelors Degree",9,"75th",162000
+"New York City","Bachelors Degree",10,"75th",166000
+"New York City","Graduate Degree",0,"75th",137000
+"New York City","Graduate Degree",1,"75th",141000
+"New York City","Graduate Degree",2,"75th",145000
+"New York City","Graduate Degree",3,"75th",148000
+"New York City","Graduate Degree",4,"75th",152000
+"New York City","Graduate Degree",5,"75th",156000
+"New York City","Graduate Degree",6,"75th",160000
+"New York City","Graduate Degree",7,"75th",164000
+"New York City","Graduate Degree",8,"75th",168000
+"New York City","Graduate Degree",9,"75th",172000
+"New York City","Graduate Degree",10,"75th",177000
+"New York City","Post-Graduate Degree",0,"75th",137000
+"New York City","Post-Graduate Degree",1,"75th",141000
+"New York City","Post-Graduate Degree",2,"75th",145000
+"New York City","Post-Graduate Degree",3,"75th",148000
+"New York City","Post-Graduate Degree",4,"75th",152000
+"New York City","Post-Graduate Degree",5,"75th",156000
+"New York City","Post-Graduate Degree",6,"75th",160000
+"New York City","Post-Graduate Degree",7,"75th",164000
+"New York City","Post-Graduate Degree",8,"75th",168000
+"New York City","Post-Graduate Degree",9,"75th",172000
+"New York City","Post-Graduate Degree",10,"75th",177000
+"Salt Lake City","Less than Bachelors",0,"75th",92000
+"Salt Lake City","Less than Bachelors",1,"75th",94000
+"Salt Lake City","Less than Bachelors",2,"75th",97000
+"Salt Lake City","Less than Bachelors",3,"75th",99000
+"Salt Lake City","Less than Bachelors",4,"75th",102000
+"Salt Lake City","Less than Bachelors",5,"75th",104000
+"Salt Lake City","Less than Bachelors",6,"75th",107000
+"Salt Lake City","Less than Bachelors",7,"75th",110000
+"Salt Lake City","Less than Bachelors",8,"75th",112000
+"Salt Lake City","Less than Bachelors",9,"75th",115000
+"Salt Lake City","Less than Bachelors",10,"75th",118000
+"Salt Lake City","Bachelors Degree",0,"75th",1e+05
+"Salt Lake City","Bachelors Degree",1,"75th",103000
+"Salt Lake City","Bachelors Degree",2,"75th",105000
+"Salt Lake City","Bachelors Degree",3,"75th",108000
+"Salt Lake City","Bachelors Degree",4,"75th",111000
+"Salt Lake City","Bachelors Degree",5,"75th",113000
+"Salt Lake City","Bachelors Degree",6,"75th",116000
+"Salt Lake City","Bachelors Degree",7,"75th",119000
+"Salt Lake City","Bachelors Degree",8,"75th",122000
+"Salt Lake City","Bachelors Degree",9,"75th",125000
+"Salt Lake City","Bachelors Degree",10,"75th",128000
+"Salt Lake City","Graduate Degree",0,"75th",106000
+"Salt Lake City","Graduate Degree",1,"75th",109000
+"Salt Lake City","Graduate Degree",2,"75th",112000
+"Salt Lake City","Graduate Degree",3,"75th",115000
+"Salt Lake City","Graduate Degree",4,"75th",118000
+"Salt Lake City","Graduate Degree",5,"75th",121000
+"Salt Lake City","Graduate Degree",6,"75th",124000
+"Salt Lake City","Graduate Degree",7,"75th",127000
+"Salt Lake City","Graduate Degree",8,"75th",130000
+"Salt Lake City","Graduate Degree",9,"75th",133000
+"Salt Lake City","Graduate Degree",10,"75th",137000
+"Salt Lake City","Post-Graduate Degree",0,"75th",106000
+"Salt Lake City","Post-Graduate Degree",1,"75th",109000
+"Salt Lake City","Post-Graduate Degree",2,"75th",112000
+"Salt Lake City","Post-Graduate Degree",3,"75th",115000
+"Salt Lake City","Post-Graduate Degree",4,"75th",118000
+"Salt Lake City","Post-Graduate Degree",5,"75th",121000
+"Salt Lake City","Post-Graduate Degree",6,"75th",124000
+"Salt Lake City","Post-Graduate Degree",7,"75th",127000
+"Salt Lake City","Post-Graduate Degree",8,"75th",130000
+"Salt Lake City","Post-Graduate Degree",9,"75th",133000
+"Salt Lake City","Post-Graduate Degree",10,"75th",137000
+"Houston","Less than Bachelors",0,"75th",92000
+"Houston","Less than Bachelors",1,"75th",94000
+"Houston","Less than Bachelors",2,"75th",97000
+"Houston","Less than Bachelors",3,"75th",99000
+"Houston","Less than Bachelors",4,"75th",102000
+"Houston","Less than Bachelors",5,"75th",104000
+"Houston","Less than Bachelors",6,"75th",107000
+"Houston","Less than Bachelors",7,"75th",110000
+"Houston","Less than Bachelors",8,"75th",112000
+"Houston","Less than Bachelors",9,"75th",115000
+"Houston","Less than Bachelors",10,"75th",118000
+"Houston","Bachelors Degree",0,"75th",1e+05
+"Houston","Bachelors Degree",1,"75th",103000
+"Houston","Bachelors Degree",2,"75th",105000
+"Houston","Bachelors Degree",3,"75th",108000
+"Houston","Bachelors Degree",4,"75th",111000
+"Houston","Bachelors Degree",5,"75th",113000
+"Houston","Bachelors Degree",6,"75th",116000
+"Houston","Bachelors Degree",7,"75th",119000
+"Houston","Bachelors Degree",8,"75th",122000
+"Houston","Bachelors Degree",9,"75th",125000
+"Houston","Bachelors Degree",10,"75th",128000
+"Houston","Graduate Degree",0,"75th",106000
+"Houston","Graduate Degree",1,"75th",109000
+"Houston","Graduate Degree",2,"75th",112000
+"Houston","Graduate Degree",3,"75th",115000
+"Houston","Graduate Degree",4,"75th",118000
+"Houston","Graduate Degree",5,"75th",121000
+"Houston","Graduate Degree",6,"75th",124000
+"Houston","Graduate Degree",7,"75th",127000
+"Houston","Graduate Degree",8,"75th",130000
+"Houston","Graduate Degree",9,"75th",133000
+"Houston","Graduate Degree",10,"75th",137000
+"Houston","Post-Graduate Degree",0,"75th",106000
+"Houston","Post-Graduate Degree",1,"75th",109000
+"Houston","Post-Graduate Degree",2,"75th",112000
+"Houston","Post-Graduate Degree",3,"75th",115000
+"Houston","Post-Graduate Degree",4,"75th",118000
+"Houston","Post-Graduate Degree",5,"75th",121000
+"Houston","Post-Graduate Degree",6,"75th",124000
+"Houston","Post-Graduate Degree",7,"75th",127000
+"Houston","Post-Graduate Degree",8,"75th",130000
+"Houston","Post-Graduate Degree",9,"75th",133000
+"Houston","Post-Graduate Degree",10,"75th",137000
+"San Francisco","Less than Bachelors",0,"75th",133000
+"San Francisco","Less than Bachelors",1,"75th",136000
+"San Francisco","Less than Bachelors",2,"75th",140000
+"San Francisco","Less than Bachelors",3,"75th",143000
+"San Francisco","Less than Bachelors",4,"75th",147000
+"San Francisco","Less than Bachelors",5,"75th",151000
+"San Francisco","Less than Bachelors",6,"75th",154000
+"San Francisco","Less than Bachelors",7,"75th",158000
+"San Francisco","Less than Bachelors",8,"75th",162000
+"San Francisco","Less than Bachelors",9,"75th",166000
+"San Francisco","Less than Bachelors",10,"75th",171000
+"San Francisco","Bachelors Degree",0,"75th",144000
+"San Francisco","Bachelors Degree",1,"75th",148000
+"San Francisco","Bachelors Degree",2,"75th",152000
+"San Francisco","Bachelors Degree",3,"75th",156000
+"San Francisco","Bachelors Degree",4,"75th",160000
+"San Francisco","Bachelors Degree",5,"75th",164000
+"San Francisco","Bachelors Degree",6,"75th",168000
+"San Francisco","Bachelors Degree",7,"75th",172000
+"San Francisco","Bachelors Degree",8,"75th",176000
+"San Francisco","Bachelors Degree",9,"75th",181000
+"San Francisco","Bachelors Degree",10,"75th",186000
+"San Francisco","Graduate Degree",0,"75th",154000
+"San Francisco","Graduate Degree",1,"75th",158000
+"San Francisco","Graduate Degree",2,"75th",162000
+"San Francisco","Graduate Degree",3,"75th",166000
+"San Francisco","Graduate Degree",4,"75th",170000
+"San Francisco","Graduate Degree",5,"75th",174000
+"San Francisco","Graduate Degree",6,"75th",179000
+"San Francisco","Graduate Degree",7,"75th",183000
+"San Francisco","Graduate Degree",8,"75th",188000
+"San Francisco","Graduate Degree",9,"75th",193000
+"San Francisco","Graduate Degree",10,"75th",197000
+"San Francisco","Post-Graduate Degree",0,"75th",154000
+"San Francisco","Post-Graduate Degree",1,"75th",158000
+"San Francisco","Post-Graduate Degree",2,"75th",162000
+"San Francisco","Post-Graduate Degree",3,"75th",166000
+"San Francisco","Post-Graduate Degree",4,"75th",170000
+"San Francisco","Post-Graduate Degree",5,"75th",174000
+"San Francisco","Post-Graduate Degree",6,"75th",179000
+"San Francisco","Post-Graduate Degree",7,"75th",183000
+"San Francisco","Post-Graduate Degree",8,"75th",188000
+"San Francisco","Post-Graduate Degree",9,"75th",193000
+"San Francisco","Post-Graduate Degree",10,"75th",197000
+"San Jose","Less than Bachelors",0,"75th",133000
+"San Jose","Less than Bachelors",1,"75th",136000
+"San Jose","Less than Bachelors",2,"75th",140000
+"San Jose","Less than Bachelors",3,"75th",143000
+"San Jose","Less than Bachelors",4,"75th",147000
+"San Jose","Less than Bachelors",5,"75th",151000
+"San Jose","Less than Bachelors",6,"75th",154000
+"San Jose","Less than Bachelors",7,"75th",158000
+"San Jose","Less than Bachelors",8,"75th",162000
+"San Jose","Less than Bachelors",9,"75th",166000
+"San Jose","Less than Bachelors",10,"75th",171000
+"San Jose","Bachelors Degree",0,"75th",144000
+"San Jose","Bachelors Degree",1,"75th",148000
+"San Jose","Bachelors Degree",2,"75th",152000
+"San Jose","Bachelors Degree",3,"75th",156000
+"San Jose","Bachelors Degree",4,"75th",160000
+"San Jose","Bachelors Degree",5,"75th",164000
+"San Jose","Bachelors Degree",6,"75th",168000
+"San Jose","Bachelors Degree",7,"75th",172000
+"San Jose","Bachelors Degree",8,"75th",176000
+"San Jose","Bachelors Degree",9,"75th",181000
+"San Jose","Bachelors Degree",10,"75th",186000
+"San Jose","Graduate Degree",0,"75th",154000
+"San Jose","Graduate Degree",1,"75th",158000
+"San Jose","Graduate Degree",2,"75th",162000
+"San Jose","Graduate Degree",3,"75th",166000
+"San Jose","Graduate Degree",4,"75th",170000
+"San Jose","Graduate Degree",5,"75th",174000
+"San Jose","Graduate Degree",6,"75th",179000
+"San Jose","Graduate Degree",7,"75th",183000
+"San Jose","Graduate Degree",8,"75th",188000
+"San Jose","Graduate Degree",9,"75th",193000
+"San Jose","Graduate Degree",10,"75th",197000
+"San Jose","Post-Graduate Degree",0,"75th",154000
+"San Jose","Post-Graduate Degree",1,"75th",158000
+"San Jose","Post-Graduate Degree",2,"75th",162000
+"San Jose","Post-Graduate Degree",3,"75th",166000
+"San Jose","Post-Graduate Degree",4,"75th",170000
+"San Jose","Post-Graduate Degree",5,"75th",174000
+"San Jose","Post-Graduate Degree",6,"75th",179000
+"San Jose","Post-Graduate Degree",7,"75th",183000
+"San Jose","Post-Graduate Degree",8,"75th",188000
+"San Jose","Post-Graduate Degree",9,"75th",193000
+"San Jose","Post-Graduate Degree",10,"75th",197000
+"Los Angeles","Less than Bachelors",0,"75th",92000
+"Los Angeles","Less than Bachelors",1,"75th",94000
+"Los Angeles","Less than Bachelors",2,"75th",97000
+"Los Angeles","Less than Bachelors",3,"75th",99000
+"Los Angeles","Less than Bachelors",4,"75th",102000
+"Los Angeles","Less than Bachelors",5,"75th",104000
+"Los Angeles","Less than Bachelors",6,"75th",107000
+"Los Angeles","Less than Bachelors",7,"75th",110000
+"Los Angeles","Less than Bachelors",8,"75th",112000
+"Los Angeles","Less than Bachelors",9,"75th",115000
+"Los Angeles","Less than Bachelors",10,"75th",118000
+"Los Angeles","Bachelors Degree",0,"75th",1e+05
+"Los Angeles","Bachelors Degree",1,"75th",103000
+"Los Angeles","Bachelors Degree",2,"75th",105000
+"Los Angeles","Bachelors Degree",3,"75th",108000
+"Los Angeles","Bachelors Degree",4,"75th",111000
+"Los Angeles","Bachelors Degree",5,"75th",113000
+"Los Angeles","Bachelors Degree",6,"75th",116000
+"Los Angeles","Bachelors Degree",7,"75th",119000
+"Los Angeles","Bachelors Degree",8,"75th",122000
+"Los Angeles","Bachelors Degree",9,"75th",125000
+"Los Angeles","Bachelors Degree",10,"75th",128000
+"Los Angeles","Graduate Degree",0,"75th",106000
+"Los Angeles","Graduate Degree",1,"75th",109000
+"Los Angeles","Graduate Degree",2,"75th",112000
+"Los Angeles","Graduate Degree",3,"75th",115000
+"Los Angeles","Graduate Degree",4,"75th",118000
+"Los Angeles","Graduate Degree",5,"75th",121000
+"Los Angeles","Graduate Degree",6,"75th",124000
+"Los Angeles","Graduate Degree",7,"75th",127000
+"Los Angeles","Graduate Degree",8,"75th",130000
+"Los Angeles","Graduate Degree",9,"75th",133000
+"Los Angeles","Graduate Degree",10,"75th",137000
+"Los Angeles","Post-Graduate Degree",0,"75th",106000
+"Los Angeles","Post-Graduate Degree",1,"75th",109000
+"Los Angeles","Post-Graduate Degree",2,"75th",112000
+"Los Angeles","Post-Graduate Degree",3,"75th",115000
+"Los Angeles","Post-Graduate Degree",4,"75th",118000
+"Los Angeles","Post-Graduate Degree",5,"75th",121000
+"Los Angeles","Post-Graduate Degree",6,"75th",124000
+"Los Angeles","Post-Graduate Degree",7,"75th",127000
+"Los Angeles","Post-Graduate Degree",8,"75th",130000
+"Los Angeles","Post-Graduate Degree",9,"75th",133000
+"Los Angeles","Post-Graduate Degree",10,"75th",137000
+"Chicago","Less than Bachelors",0,"75th",92000
+"Chicago","Less than Bachelors",1,"75th",94000
+"Chicago","Less than Bachelors",2,"75th",97000
+"Chicago","Less than Bachelors",3,"75th",99000
+"Chicago","Less than Bachelors",4,"75th",102000
+"Chicago","Less than Bachelors",5,"75th",104000
+"Chicago","Less than Bachelors",6,"75th",107000
+"Chicago","Less than Bachelors",7,"75th",110000
+"Chicago","Less than Bachelors",8,"75th",112000
+"Chicago","Less than Bachelors",9,"75th",115000
+"Chicago","Less than Bachelors",10,"75th",118000
+"Chicago","Bachelors Degree",0,"75th",1e+05
+"Chicago","Bachelors Degree",1,"75th",103000
+"Chicago","Bachelors Degree",2,"75th",105000
+"Chicago","Bachelors Degree",3,"75th",108000
+"Chicago","Bachelors Degree",4,"75th",111000
+"Chicago","Bachelors Degree",5,"75th",113000
+"Chicago","Bachelors Degree",6,"75th",116000
+"Chicago","Bachelors Degree",7,"75th",119000
+"Chicago","Bachelors Degree",8,"75th",122000
+"Chicago","Bachelors Degree",9,"75th",125000
+"Chicago","Bachelors Degree",10,"75th",128000
+"Chicago","Graduate Degree",0,"75th",106000
+"Chicago","Graduate Degree",1,"75th",109000
+"Chicago","Graduate Degree",2,"75th",112000
+"Chicago","Graduate Degree",3,"75th",115000
+"Chicago","Graduate Degree",4,"75th",118000
+"Chicago","Graduate Degree",5,"75th",121000
+"Chicago","Graduate Degree",6,"75th",124000
+"Chicago","Graduate Degree",7,"75th",127000
+"Chicago","Graduate Degree",8,"75th",130000
+"Chicago","Graduate Degree",9,"75th",133000
+"Chicago","Graduate Degree",10,"75th",137000
+"Chicago","Post-Graduate Degree",0,"75th",106000
+"Chicago","Post-Graduate Degree",1,"75th",109000
+"Chicago","Post-Graduate Degree",2,"75th",112000
+"Chicago","Post-Graduate Degree",3,"75th",115000
+"Chicago","Post-Graduate Degree",4,"75th",118000
+"Chicago","Post-Graduate Degree",5,"75th",121000
+"Chicago","Post-Graduate Degree",6,"75th",124000
+"Chicago","Post-Graduate Degree",7,"75th",127000
+"Chicago","Post-Graduate Degree",8,"75th",130000
+"Chicago","Post-Graduate Degree",9,"75th",133000
+"Chicago","Post-Graduate Degree",10,"75th",137000
+"Phoenix","Less than Bachelors",0,"75th",92000
+"Phoenix","Less than Bachelors",1,"75th",94000
+"Phoenix","Less than Bachelors",2,"75th",97000
+"Phoenix","Less than Bachelors",3,"75th",99000
+"Phoenix","Less than Bachelors",4,"75th",102000
+"Phoenix","Less than Bachelors",5,"75th",104000
+"Phoenix","Less than Bachelors",6,"75th",107000
+"Phoenix","Less than Bachelors",7,"75th",110000
+"Phoenix","Less than Bachelors",8,"75th",112000
+"Phoenix","Less than Bachelors",9,"75th",115000
+"Phoenix","Less than Bachelors",10,"75th",118000
+"Phoenix","Bachelors Degree",0,"75th",1e+05
+"Phoenix","Bachelors Degree",1,"75th",103000
+"Phoenix","Bachelors Degree",2,"75th",105000
+"Phoenix","Bachelors Degree",3,"75th",108000
+"Phoenix","Bachelors Degree",4,"75th",111000
+"Phoenix","Bachelors Degree",5,"75th",113000
+"Phoenix","Bachelors Degree",6,"75th",116000
+"Phoenix","Bachelors Degree",7,"75th",119000
+"Phoenix","Bachelors Degree",8,"75th",122000
+"Phoenix","Bachelors Degree",9,"75th",125000
+"Phoenix","Bachelors Degree",10,"75th",128000
+"Phoenix","Graduate Degree",0,"75th",106000
+"Phoenix","Graduate Degree",1,"75th",109000
+"Phoenix","Graduate Degree",2,"75th",112000
+"Phoenix","Graduate Degree",3,"75th",115000
+"Phoenix","Graduate Degree",4,"75th",118000
+"Phoenix","Graduate Degree",5,"75th",121000
+"Phoenix","Graduate Degree",6,"75th",124000
+"Phoenix","Graduate Degree",7,"75th",127000
+"Phoenix","Graduate Degree",8,"75th",130000
+"Phoenix","Graduate Degree",9,"75th",133000
+"Phoenix","Graduate Degree",10,"75th",137000
+"Phoenix","Post-Graduate Degree",0,"75th",106000
+"Phoenix","Post-Graduate Degree",1,"75th",109000
+"Phoenix","Post-Graduate Degree",2,"75th",112000
+"Phoenix","Post-Graduate Degree",3,"75th",115000
+"Phoenix","Post-Graduate Degree",4,"75th",118000
+"Phoenix","Post-Graduate Degree",5,"75th",121000
+"Phoenix","Post-Graduate Degree",6,"75th",124000
+"Phoenix","Post-Graduate Degree",7,"75th",127000
+"Phoenix","Post-Graduate Degree",8,"75th",130000
+"Phoenix","Post-Graduate Degree",9,"75th",133000
+"Phoenix","Post-Graduate Degree",10,"75th",137000
+"Boston","Less than Bachelors",0,"75th",92000
+"Boston","Less than Bachelors",1,"75th",94000
+"Boston","Less than Bachelors",2,"75th",97000
+"Boston","Less than Bachelors",3,"75th",99000
+"Boston","Less than Bachelors",4,"75th",102000
+"Boston","Less than Bachelors",5,"75th",104000
+"Boston","Less than Bachelors",6,"75th",107000
+"Boston","Less than Bachelors",7,"75th",110000
+"Boston","Less than Bachelors",8,"75th",112000
+"Boston","Less than Bachelors",9,"75th",115000
+"Boston","Less than Bachelors",10,"75th",118000
+"Boston","Bachelors Degree",0,"75th",1e+05
+"Boston","Bachelors Degree",1,"75th",103000
+"Boston","Bachelors Degree",2,"75th",105000
+"Boston","Bachelors Degree",3,"75th",108000
+"Boston","Bachelors Degree",4,"75th",111000
+"Boston","Bachelors Degree",5,"75th",113000
+"Boston","Bachelors Degree",6,"75th",116000
+"Boston","Bachelors Degree",7,"75th",119000
+"Boston","Bachelors Degree",8,"75th",122000
+"Boston","Bachelors Degree",9,"75th",125000
+"Boston","Bachelors Degree",10,"75th",128000
+"Boston","Graduate Degree",0,"75th",106000
+"Boston","Graduate Degree",1,"75th",109000
+"Boston","Graduate Degree",2,"75th",112000
+"Boston","Graduate Degree",3,"75th",115000
+"Boston","Graduate Degree",4,"75th",118000
+"Boston","Graduate Degree",5,"75th",121000
+"Boston","Graduate Degree",6,"75th",124000
+"Boston","Graduate Degree",7,"75th",127000
+"Boston","Graduate Degree",8,"75th",130000
+"Boston","Graduate Degree",9,"75th",133000
+"Boston","Graduate Degree",10,"75th",137000
+"Boston","Post-Graduate Degree",0,"75th",106000
+"Boston","Post-Graduate Degree",1,"75th",109000
+"Boston","Post-Graduate Degree",2,"75th",112000
+"Boston","Post-Graduate Degree",3,"75th",115000
+"Boston","Post-Graduate Degree",4,"75th",118000
+"Boston","Post-Graduate Degree",5,"75th",121000
+"Boston","Post-Graduate Degree",6,"75th",124000
+"Boston","Post-Graduate Degree",7,"75th",127000
+"Boston","Post-Graduate Degree",8,"75th",130000
+"Boston","Post-Graduate Degree",9,"75th",133000
+"Boston","Post-Graduate Degree",10,"75th",137000
